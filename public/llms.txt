@@ -76,7 +76,15 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-_No products are currently configured._
+**Total active products: 1**
+
+### שקד טחון
+https://example.com/product/shkd-tchvn-7pxopt
+- Price: 5.56 ILS
+- Availability: In stock
+- Category: אגוזים ופיצוחים
+- Description: שקד טחון איכותי וטרי, בעל מרקם עדין וטעם עשיר, המהווה חומר גלם מושלם למגוון רחב של מתכונים. מתאים במיוחד לאפייה, להכנת עוגות, עוגיות ועוד שלל קינוחים.
+- Image: https://example.com/assets/image-product-image-1782634727839-ejdxqt.webp
 
 ---
 

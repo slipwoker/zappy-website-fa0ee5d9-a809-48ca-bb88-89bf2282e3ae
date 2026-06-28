@@ -4,6 +4,19 @@
     <title>הקולה Market</title>
     <link>https://example.com</link>
     <description>Product feed for הקולה Market</description>
-    <lastBuildDate>Sun, 28 Jun 2026 08:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 08:27:45 GMT</lastBuildDate>
+    <item>
+      <g:id>bf62cabf-be66-490a-a597-2c5dfe064b22</g:id>
+      <g:title>שקד טחון</g:title>
+      <g:description>שקד טחון איכותי וטרי, בעל מרקם עדין וטעם עשיר, המהווה חומר גלם מושלם למגוון רחב של מתכונים. מתאים במיוחד לאפייה, להכנת עוגות, עוגיות ועוד שלל קינוחים.</g:description>
+      <g:link>https://example.com/product/shkd-tchvn-7pxopt</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1782634727839-ejdxqt.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>5.56 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הקולה Market</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>אגוזים ופיצוחים</g:product_type>
+    </item>
   </channel>
 </rss>
