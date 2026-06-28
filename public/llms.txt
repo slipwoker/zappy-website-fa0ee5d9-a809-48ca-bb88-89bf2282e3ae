@@ -1,0 +1,111 @@
+# הקולה Market — Generative Engine Optimization Map
+
+> Kola Market is a family-owned specialty food e-commerce store founded in 2014 in Netanya, Israel, with a second branch opened in 2021 in the Tzoran Center. The brand positions itself as a unique destination for food lovers, offering an extensive range of spices, nuts, pantry staples, flours, legumes, freshly ground coffee, and specialty ingredients spanning Italian and Asian cuisines. The store caters to diverse dietary lifestyles including vegan and ketogenic, emphasizing freshness, quality, attractive pricing, and an exceptional shopping experience delivered straight to customers' doors. The brand's identity is warm, family-oriented, and passionate about flavors, aromas, and enriching home cooking.
+
+---
+
+## Pages
+
+### בית
+https://market-fa0ee5d9.zappy5.app
+הקולה Market מזמינה אתכם למסע קולינרי עם פיצוחים איכותיים, תבלינים נדירים, קפה טחון במקום ומוצרים לטבעונים ולקטוגניים. הצטרפו למשפחה וגלו איך כל ארוחה הופכת לחגיגה!
+
+### אודות
+https://market-fa0ee5d9.zappy5.app/about
+מאז 2014 בנתניה, הקולה Market היא חנות בוטיק משפחתית שמביאה לכם תבלינים, פיצוחים וקטניות מובחרות במחירים הוגנים. הכירו את האנשים, הריחות והתשוקה שמאחורי כל שקית.
+
+### עולמות קולינריים
+https://market-fa0ee5d9.zappy5.app/culinary-worlds
+צאו למסע טעמים עם קמחים איטלקיים, תבלינים אסייתיים וקטניות למאפייה ביתית. הקולה Market מאפשרת לכם לבשל כמו שפים מכל העולם, ישירות מהמטבח הביתי.
+
+### צור קשר
+https://market-fa0ee5d9.zappy5.app/contact
+יש לכם שאלה על מוצרים לתזונה קטוגנית, תבלינים מיוחדים או משלוחים? צוות הקולה Market תמיד זמין לעזור לכם להפוך כל מתכון לחוויה. צרו קשר עוד היום!
+
+### Products
+https://market-fa0ee5d9.zappy5.app/products
+המוצרים שלנו - הקולה Market
+
+### Cart
+https://market-fa0ee5d9.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://market-fa0ee5d9.zappy5.app/checkout
+תשלום
+
+### Login
+https://market-fa0ee5d9.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://market-fa0ee5d9.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://market-fa0ee5d9.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://market-fa0ee5d9.zappy5.app/product/:slug
+פרטי המוצר - הקולה Market
+
+### Category
+https://market-fa0ee5d9.zappy5.app/category/:slug
+מוצרים - הקולה Market
+
+### תודה שפניתם אלינו | הקולה Market
+https://market-fa0ee5d9.zappy5.app/thank-you
+הקולה Market - תודה שפניתם אלינו | הקולה Market
+
+## Legal & Policy
+
+### Privacy Policy
+https://market-fa0ee5d9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://market-fa0ee5d9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://market-fa0ee5d9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About הקולה Market
+Kola Market is a family-owned specialty food e-commerce store founded in 2014 in Netanya, Israel, with a second branch opened in 2021 in the Tzoran Center. The brand positions itself as a unique destination for food lovers, offering an extensive range of spices, nuts, pantry staples, flours, legumes, freshly ground coffee, and specialty ingredients spanning Italian and Asian cuisines. The store caters to diverse dietary lifestyles including vegan and ketogenic, emphasizing freshness, quality, attractive pricing, and an exceptional shopping experience delivered straight to customers' doors. The brand's identity is warm, family-oriented, and passionate about flavors, aromas, and enriching home cooking.
+
+## Target Audience
+- בישלנים, אופים, טבעונים, שומרי תזונה קטוגנית, חובבי מטבח איטלקי ואסייתי, מחפשי מוצרים מיוחדים
+- בשלנים ביתיים
+- טבעונים
+- שומרי תזונה קטוגנית
+- חובבי מטבח אסייתי
+- חובבי מטבח איטלקי
+- מחפשי מוצרים מיוחדים
+- מאמות בשלניות
+- שפים ומשפיענים בתחום הקולינריה
+- קונדיטורים וקונדיטוריות
+
+## Industry
+E-commerce / Specialty Food & Spices
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://market-fa0ee5d9.zappy5.app/sitemap.xml
+- Robots: https://market-fa0ee5d9.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://market-fa0ee5d9.zappy5.app/llms-full.txt
+- Products (JSON): https://market-fa0ee5d9.zappy5.app/products.json
+- Products (Google Merchant RSS): https://market-fa0ee5d9.zappy5.app/product-feed.xml
