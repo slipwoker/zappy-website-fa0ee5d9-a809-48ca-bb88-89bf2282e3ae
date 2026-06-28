@@ -11831,6 +11831,58 @@ window.onload = function() {
     }
 })();
 
+/* ZAPPY_CUSTOM_JS_START:b61b2a97a0e9 */
+(function () {
+  function __zappyCustomInit() {
+    try {
+(function() {
+  const navbar = document.querySelector('.navbar');
+  if (!navbar) return;
+  
+  const OLIVE_GREEN = '#6B7F52';
+  const TRANSPARENT = 'transparent';
+  
+  function updateNavbarBackground() {
+    const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+    
+    if (scrollTop <= 10) {
+      // At the very top - olive green background
+      navbar.style.backgroundColor = OLIVE_GREEN;
+      navbar.style.transition = 'background-color 0.3s ease';
+    } else {
+      // Scrolled down - transparent
+      navbar.style.backgroundColor = TRANSPARENT;
+      navbar.style.transition = 'background-color 0.3s ease';
+    }
+  }
+  
+  // Run on load
+  updateNavbarBackground();
+  
+  // Run on scroll with throttling
+  let ticking = false;
+  window.addEventListener('scroll', function() {
+    if (!ticking) {
+      window.requestAnimationFrame(function() {
+        updateNavbarBackground();
+        ticking = false;
+      });
+      ticking = true;
+    }
+  });
+})();
+    } catch (e) {
+      if (typeof console !== 'undefined' && console.warn) { console.warn('[zappy-custom-js]', e); }
+    }
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', __zappyCustomInit);
+  } else {
+    __zappyCustomInit();
+  }
+})();
+/* ZAPPY_CUSTOM_JS_END:b61b2a97a0e9 */
+
 
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
