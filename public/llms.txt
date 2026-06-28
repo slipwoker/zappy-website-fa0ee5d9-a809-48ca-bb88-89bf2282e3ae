@@ -76,10 +76,18 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 1**
+**Total active products: 2**
+
+### תמר מג׳הול רגיל
+https://example.com/product/tmr-mghvl-rgyl-h8ev4o
+- Price: 6.50 ILS
+- Availability: In stock
+- Category: פירות יבשים
+- Description: **תמר מג'הול** תמר מג'הול מובחר, עסיסי ובעל מתיקות טבעית עשירה. מושלם לנשנוש, לאירוח, להכנת קינוחים או כתוספת בריאה ומפנקת לכל שעה ביום.
+- Image: https://example.com/assets/image-product-image-1782640533711-s0zwqm.webp
 
 ### שקד טחון
-https://example.com/product/shkd-tchvn-7pxopt
+https://example.com/product/shkd-tchvn-xqe4is
 - Price: 5.56 ILS
 - Availability: In stock
 - Category: אגוזים ופיצוחים

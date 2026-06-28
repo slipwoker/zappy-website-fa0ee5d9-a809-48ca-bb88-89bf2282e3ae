@@ -1,13 +1,37 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T09:48:43.720Z",
+  "generated_at": "2026-06-28T09:57:37.008Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 1,
+  "count": 2,
   "products": [
     {
+      "id": "0b5c6fcb-2549-46a1-9f72-f3028737a3f6",
+      "slug": "tmr-mghvl-rgyl-h8ev4o",
+      "name": "תמר מג׳הול רגיל",
+      "name_translations": {},
+      "description": "",
+      "short_description": "**תמר מג'הול** \n\nתמר מג'הול מובחר, עסיסי ובעל מתיקות טבעית עשירה. מושלם לנשנוש, לאירוח, להכנת קינוחים או כתוספת בריאה ומפנקת לכל שעה ביום.\n",
+      "sku": null,
+      "brand": null,
+      "price": 6.5,
+      "base_price": 6.5,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/image-product-image-1782640533711-s0zwqm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/tmr-mghvl-rgyl-h8ev4o",
+      "categories": [
+        "פירות יבשים"
+      ],
+      "updated_at": "2026-06-28T09:56:46.083Z"
+    },
+    {
       "id": "bf62cabf-be66-490a-a597-2c5dfe064b22",
-      "slug": "shkd-tchvn-7pxopt",
+      "slug": "shkd-tchvn-xqe4is",
       "name": "שקד טחון",
       "name_translations": {},
       "description": "",
@@ -23,11 +47,11 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shkd-tchvn-7pxopt",
+      "url": "https://example.com/product/shkd-tchvn-xqe4is",
       "categories": [
         "אגוזים ופיצוחים"
       ],
-      "updated_at": "2026-06-28T08:22:19.052Z"
+      "updated_at": "2026-06-28T09:57:22.777Z"
     }
   ]
 }

@@ -5619,8 +5619,15 @@ Description: הקולה Market - תודה שפניתם אלינו | הקולה M
 
 ## Product Catalog
 
+### תמר מג׳הול רגיל
+URL: https://example.com/product/tmr-mghvl-rgyl-h8ev4o
+Price: 6.50 ILS
+Availability: In stock
+
+---
+
 ### שקד טחון
-URL: https://example.com/product/shkd-tchvn-7pxopt
+URL: https://example.com/product/shkd-tchvn-xqe4is
 Price: 5.56 ILS
 Availability: In stock
 

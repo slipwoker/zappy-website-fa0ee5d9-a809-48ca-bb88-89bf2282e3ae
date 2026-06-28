@@ -4,12 +4,25 @@
     <title>הקולה Market</title>
     <link>https://example.com</link>
     <description>Product feed for הקולה Market</description>
-    <lastBuildDate>Sun, 28 Jun 2026 09:48:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 09:57:37 GMT</lastBuildDate>
+    <item>
+      <g:id>0b5c6fcb-2549-46a1-9f72-f3028737a3f6</g:id>
+      <g:title>תמר מג׳הול רגיל</g:title>
+      <g:description>**תמר מג&apos;הול** תמר מג&apos;הול מובחר, עסיסי ובעל מתיקות טבעית עשירה. מושלם לנשנוש, לאירוח, להכנת קינוחים או כתוספת בריאה ומפנקת לכל שעה ביום.</g:description>
+      <g:link>https://example.com/product/tmr-mghvl-rgyl-h8ev4o</g:link>
+      <g:image_link>https://example.com/assets/image-product-image-1782640533711-s0zwqm.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>6.50 ILS</g:price>
+      <g:condition>new</g:condition>
+      <g:brand>הקולה Market</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:product_type>פירות יבשים</g:product_type>
+    </item>
     <item>
       <g:id>bf62cabf-be66-490a-a597-2c5dfe064b22</g:id>
       <g:title>שקד טחון</g:title>
       <g:description>שקד טחון איכותי וטרי, בעל מרקם עדין וטעם עשיר, המהווה חומר גלם מושלם למגוון רחב של מתכונים. מתאים במיוחד לאפייה, להכנת עוגות, עוגיות ועוד שלל קינוחים.</g:description>
-      <g:link>https://example.com/product/shkd-tchvn-7pxopt</g:link>
+      <g:link>https://example.com/product/shkd-tchvn-xqe4is</g:link>
       <g:image_link>https://example.com/assets/image-product-image-1782634727839-ejdxqt.webp</g:image_link>
       <g:availability>in_stock</g:availability>
       <g:price>5.56 ILS</g:price>
