@@ -254,9 +254,11 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 });
 
+
 /* === NAVBAR SCROLL JS OVERRIDE START === */
 (function(){if(window._zappyNavScrollCleanup){window._zappyNavScrollCleanup();delete window._zappyNavScrollCleanup;}var nb=document.querySelector('nav.navbar,.navbar:not(.zappy-catalog-menu)');var cm=document.querySelector('.zappy-catalog-menu,#zappy-catalog-menu');function clr(){if(nb){nb.style.removeProperty('background');nb.style.removeProperty('background-color');nb.style.removeProperty('backdrop-filter');nb.style.removeProperty('-webkit-backdrop-filter');nb.style.removeProperty('box-shadow');nb.style.removeProperty('--frosted-text');nb.classList.remove('scrolled');}if(cm){cm.style.removeProperty('background');cm.style.removeProperty('background-color');cm.style.removeProperty('backdrop-filter');cm.style.removeProperty('-webkit-backdrop-filter');cm.classList.remove('scrolled');}}clr();window.addEventListener('scroll',clr,{passive:true});window._zappyNavScrollCleanup=function(){window.removeEventListener('scroll',clr);};})();
 /* === NAVBAR SCROLL JS OVERRIDE END === */
+
 
 
 ;
