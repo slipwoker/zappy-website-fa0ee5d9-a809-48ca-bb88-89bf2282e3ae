@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://example.com
+https://hakola-market-1.zappy5.app
 הקולה Market מזמינה אתכם למסע קולינרי עם פיצוחים איכותיים, תבלינים נדירים, קפה טחון במקום ומוצרים לטבעונים ולקטוגניים. הצטרפו למשפחה וגלו איך כל ארוחה הופכת לחגיגה!
 
 ### אודות
-https://example.com/about
+https://hakola-market-1.zappy5.app/about
 מאז 2014 בנתניה, הקולה Market היא חנות בוטיק משפחתית שמביאה לכם תבלינים, פיצוחים וקטניות מובחרות במחירים הוגנים. הכירו את האנשים, הריחות והתשוקה שמאחורי כל שקית.
 
 ### בלוג
-https://example.com/blog
+https://hakola-market-1.zappy5.app/blog
 צאו למסע טעמים עם קמחים איטלקיים, תבלינים אסייתיים וקטניות למאפייה ביתית. הקולה Market מאפשרת לכם לבשל כמו שפים מכל העולם, ישירות מהמטבח הביתי.
 
 ### צור קשר
-https://example.com/contact
+https://hakola-market-1.zappy5.app/contact
 יש לכם שאלה על מוצרים לתזונה קטוגנית, תבלינים מיוחדים או משלוחים? צוות הקולה Market תמיד זמין לעזור לכם להפוך כל מתכון לחוויה. צרו קשר עוד היום!
 
 ### Products
-https://example.com/products
+https://hakola-market-1.zappy5.app/products
 המוצרים שלנו - הקולה Market
 
 ### Cart
-https://example.com/cart
+https://hakola-market-1.zappy5.app/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://example.com/checkout
+https://hakola-market-1.zappy5.app/checkout
 תשלום
 
 ### Login
-https://example.com/login
+https://hakola-market-1.zappy5.app/login
 התחברות לקוחות
 
 ### Account
-https://example.com/account
+https://hakola-market-1.zappy5.app/account
 החשבון שלי
 
 ### Order Success
-https://example.com/order-success
+https://hakola-market-1.zappy5.app/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://example.com/product/:slug
+https://hakola-market-1.zappy5.app/product/:slug
 פרטי המוצר - הקולה Market
 
 ### Category
-https://example.com/category/:slug
+https://hakola-market-1.zappy5.app/category/:slug
 מוצרים - הקולה Market
 
 ### תודה שפניתם אלינו | הקולה Market
-https://example.com/thank-you
+https://hakola-market-1.zappy5.app/thank-you
 הקולה Market - תודה שפניתם אלינו | הקולה Market
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://hakola-market-1.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://hakola-market-1.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://hakola-market-1.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -79,20 +79,20 @@ Information about WCAG compliance and accessibility features.
 **Total active products: 2**
 
 ### תמר מג׳הול רגיל
-https://example.com/product/tmr-mghvl-rgyl-h8ev4o
+https://hakola-market-1.zappy5.app/product/tmr-mghvl-rgyl-h8ev4o
 - Price: 6.50 ILS
 - Availability: In stock
 - Category: פירות יבשים
 - Description: **תמר מג'הול** תמר מג'הול מובחר, עסיסי ובעל מתיקות טבעית עשירה. מושלם לנשנוש, לאירוח, להכנת קינוחים או כתוספת בריאה ומפנקת לכל שעה ביום.
-- Image: https://example.com/assets/image-product-image-1782640533711-s0zwqm.webp
+- Image: https://hakola-market-1.zappy5.app/assets/image-product-image-1782640533711-s0zwqm.webp
 
 ### שקד טחון
-https://example.com/product/shkd-tchvn-xqe4is
+https://hakola-market-1.zappy5.app/product/shkd-tchvn-xqe4is
 - Price: 5.56 ILS
 - Availability: In stock
 - Category: אגוזים ופיצוחים
 - Description: שקד טחון איכותי וטרי, בעל מרקם עדין וטעם עשיר, המהווה חומר גלם מושלם למגוון רחב של מתכונים. מתאים במיוחד לאפייה, להכנת עוגות, עוגיות ועוד שלל קינוחים.
-- Image: https://example.com/assets/image-product-image-1782634727839-ejdxqt.webp
+- Image: https://hakola-market-1.zappy5.app/assets/image-product-image-1782634727839-ejdxqt.webp
 
 ---
 
@@ -120,8 +120,8 @@ E-commerce / Specialty Food & Spices
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
-- Products (JSON): https://example.com/products.json
-- Products (Google Merchant RSS): https://example.com/product-feed.xml
+- Sitemap (XML): https://hakola-market-1.zappy5.app/sitemap.xml
+- Robots: https://hakola-market-1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://hakola-market-1.zappy5.app/llms-full.txt
+- Products (JSON): https://hakola-market-1.zappy5.app/products.json
+- Products (Google Merchant RSS): https://hakola-market-1.zappy5.app/product-feed.xml

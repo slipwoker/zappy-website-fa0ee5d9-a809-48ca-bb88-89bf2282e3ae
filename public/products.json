@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-28T11:25:45.306Z",
-  "base_url": "https://example.com",
+  "generated_at": "2026-06-28T11:26:04.763Z",
+  "base_url": "https://hakola-market-1.zappy5.app",
   "currency": "ILS",
   "count": 2,
   "products": [
@@ -19,11 +19,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/image-product-image-1782640533711-s0zwqm.webp"
+        "https://hakola-market-1.zappy5.app/assets/image-product-image-1782640533711-s0zwqm.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/tmr-mghvl-rgyl-h8ev4o",
+      "url": "https://hakola-market-1.zappy5.app/product/tmr-mghvl-rgyl-h8ev4o",
       "categories": [
         "פירות יבשים"
       ],
@@ -43,11 +43,11 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://example.com/assets/image-product-image-1782634727839-ejdxqt.webp"
+        "https://hakola-market-1.zappy5.app/assets/image-product-image-1782634727839-ejdxqt.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://example.com/product/shkd-tchvn-xqe4is",
+      "url": "https://hakola-market-1.zappy5.app/product/shkd-tchvn-xqe4is",
       "categories": [
         "אגוזים ופיצוחים"
       ],
