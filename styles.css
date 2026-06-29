@@ -12033,27 +12033,32 @@ html body .culinary-worlds-benefits-section .culinary-worlds-benefits-section__b
 
 
 @media (min-width: 769px) {
-.culinary-worlds-benefits-section .culinary-worlds-benefits-section__bands {
-  display: flex !important;
-  flex-direction: row !important;
-  flex-wrap: wrap !important;
-  gap: 24px !important;
-  justify-content: center !important;
-}
-
 .culinary-worlds-benefits-section .culinary-worlds-benefits-section__band {
-  width: calc(50% - 12px) !important;
-  box-sizing: border-box !important;
-  margin-bottom: 0 !important;
-  flex-shrink: 0 !important;
-  flex-grow: 0 !important;
+  max-width: 560px !important;
+  width: calc(50% - 16px) !important;
+  padding: 24px 28px !important;
+}
+
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band-desc {
+  font-size: 0.92rem !important;
+  line-height: 1.6 !important;
+}
+
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__bands {
+  gap: 24px !important;
+  max-width: 1152px !important;
+  margin: 0 auto !important;
 }
 }
 /* zappy-self-heal */
-.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { width: calc(50% - 12px) !important; }
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { width: calc(50% - 16px) !important; }
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band-desc { line-height: 1.6 !important; }
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__bands { margin: 0 auto !important; }
 
 /* zappy-self-heal */
-html body .culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { width: calc(50% - 12px) !important; }
+html body .culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { width: calc(50% - 16px) !important; }
+html body .culinary-worlds-benefits-section .culinary-worlds-benefits-section__band-desc { line-height: 1.6 !important; }
+html body .culinary-worlds-benefits-section .culinary-worlds-benefits-section__bands { margin: 0 auto !important; }
 
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
