@@ -11997,6 +11997,34 @@ main,
 /* zappy-self-heal */
 html body .culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { grid-template-columns: 80px 1fr !important; }
 
+
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band {
+  background: var(--background-color) !important;
+  border-radius: 16px !important;
+  padding: 28px 32px !important;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08) !important;
+  margin-bottom: 20px !important;
+  border-bottom: none !important;
+  border: 1px solid rgba(231, 165, 43, 0.15) !important;
+}
+
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band:last-child {
+  margin-bottom: 0 !important;
+}
+
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band:hover {
+  background: var(--background-color) !important;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.12) !important;
+  transform: translateY(-3px) !important;
+  border-color: rgba(231, 165, 43, 0.35) !important;
+}
+/* zappy-self-heal */
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { margin-bottom: 20px !important; }
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { border-bottom: none !important; }
+
+/* zappy-self-heal */
+html body .culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { margin-bottom: 20px !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
