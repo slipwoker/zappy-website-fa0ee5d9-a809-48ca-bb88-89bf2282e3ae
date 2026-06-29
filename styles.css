@@ -11972,6 +11972,25 @@ main,
 }
 
 /* ==END ZAPPY V2 E-COMMERCE THEME CSS== */
+
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__bands {
+  display: flex !important;
+  flex-direction: column !important;
+  gap: 0px !important;
+}
+
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band {
+  display: grid !important;
+  grid-template-columns: 80px 1fr !important;
+  gap: 24px !important;
+  align-items: center !important;
+}
+/* zappy-self-heal */
+.culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { grid-template-columns: 80px 1fr !important; }
+
+/* zappy-self-heal */
+html body .culinary-worlds-benefits-section .culinary-worlds-benefits-section__band { grid-template-columns: 80px 1fr !important; }
+
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
