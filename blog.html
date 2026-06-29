@@ -258,6 +258,193 @@
     <script src="https://cdn.jsdelivr.net/npm/vanilla-cookieconsent@3/dist/cookieconsent.umd.js"></script>
     <!-- Mickidum Accessibility Toolbar -->
     <script src="https://cdn.jsdelivr.net/gh/mickidum/acc_toolbar/acctoolbar/acctoolbar.min.js"></script>
+
+<style data-zappy-section-v2-css="true">
+/* V2 Regenerated Section CSS */
+.blog-benefits-section {
+  background: linear-gradient(180deg, #FBF5E6 0%, #F0E4C8 100%);
+  color: var(--text-dark);
+  padding: 80px 16px;
+  position: relative;
+  overflow: hidden;
+  direction: rtl;
+  text-align: right;
+}
+
+.blog-benefits-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 2;
+}
+
+.blog-benefits-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #2C1A0E;
+  text-align: center;
+  margin-bottom: 12px;
+}
+
+.blog-benefits-subtitle {
+  font-family: 'Inter', sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #5A3E28;
+  text-align: center;
+  margin-bottom: 48px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.blog-benefits-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 24px;
+  direction: rtl;
+}
+
+.blog-benefits-card {
+  background: #FFFFFF;
+  border-radius: 16px;
+  box-shadow: 0 4px 16px rgba(44,26,14,0.08);
+  padding: 32px 24px 24px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid rgba(212,160,23,0.1);
+  position: relative;
+  min-width: 0;
+}
+
+.blog-benefits-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 28px rgba(44,26,14,0.15);
+}
+
+.blog-benefits-card-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.blog-benefits-card-title {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.3;
+  color: #2C3A1F;
+  margin: 0;
+}
+
+.blog-benefits-card-text {
+  font-family: 'Inter', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.75;
+  color: #5A3E28;
+  margin: 0;
+}
+
+.blog-benefits-card-icon {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: rgba(126, 143, 99, 0.2);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #7E8F63;
+  margin-top: auto;
+}
+
+.blog-benefits-card-icon svg {
+  width: 36px;
+  height: 36px;
+}
+
+.blog-benefits-decoration {
+  display: flex;
+  justify-content: center;
+  margin-top: 48px;
+  pointer-events: none;
+}
+
+.blog-benefits-spice-ornament {
+  width: 200px;
+  height: auto;
+  opacity: 0.7;
+}
+
+/* Tablet: 2x2 grid */
+@media (max-width: 1024px) {
+  .blog-benefits-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+  }
+}
+
+/* Mobile: 1 column */
+@media (max-width: 768px) {
+  .blog-benefits-section {
+    padding: 60px 16px;
+  }
+
+  .blog-benefits-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .blog-benefits-title {
+    font-size: 1.75rem;
+  }
+
+  .blog-benefits-subtitle {
+    font-size: 0.95rem;
+    margin-bottom: 36px;
+  }
+
+  .blog-benefits-card {
+    padding: 24px 20px 20px;
+  }
+
+  .blog-benefits-card-icon {
+    width: 64px;
+    height: 64px;
+  }
+
+  .blog-benefits-card-icon svg {
+    width: 28px;
+    height: 28px;
+  }
+}
+
+@media (max-width: 480px) {
+  .blog-benefits-section {
+    padding: 48px 12px;
+  }
+
+  .blog-benefits-title {
+    font-size: 1.5rem;
+  }
+
+  .blog-benefits-subtitle {
+    font-size: 0.9rem;
+  }
+
+  .blog-benefits-card {
+    padding: 20px 16px 16px;
+  }
+}
+</style>
     <link rel="stylesheet" href="/styles.css">
 
     <style id="zappy-dropdown-submenu-styles">
@@ -401,13 +588,13 @@
   
 
     
-  <li><a href="/">בית</a></li><li><a href="/about">אודות</a></li><li><a href="/blog">בלוג</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"/><circle cx="12" cy="7" r="4"/></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"/><circle cx="20" cy="21" r="1"/><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"/></svg><span class="cart-count">0</span></a><div class="nav-search-box">
+  <li><a href="/">בית</a></li><li><a href="/about">אודות</a></li><li><a href="/blog">בלוג</a></li><li><a href="/contact">צור קשר</a></li></ul><div class="nav-ecommerce-icons nav-icons-left"><a href="/login" class="login-link nav-login" title="התחברות"><svg class="login-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path><circle cx="12" cy="7" r="4"></circle></svg></a><a href="#cart" class="cart-link nav-cart" id="cart-drawer-toggle" title="עגלת קניות"><svg class="cart-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="9" cy="21" r="1"></circle><circle cx="20" cy="21" r="1"></circle><path d="M1 1h4l2.68 13.39a2 2 0 0 0 2 1.61h9.72a2 2 0 0 0 2-1.61L23 6H6"></path></svg><span class="cart-count">0</span></a><div class="nav-search-box">
     <input type="text" class="nav-search-input" id="nav-search-input" placeholder="חיפוש מוצרים..." autocomplete="off">
     <button class="nav-search-btn" id="nav-search-btn" title="חיפוש">
-      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+      <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg>
     </button>
     <div class="nav-search-results" id="nav-search-results"></div>
-  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg></button></div></div>
+  </div></div><div class="nav-ecommerce-icons nav-icons-right"><button class="nav-search-toggle" id="mobile-search-toggle" title="חיפוש"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><path d="M21 21l-4.35-4.35"></path></svg></button></div></div>
     
     
   </div>
@@ -1019,105 +1206,81 @@
   </div>
 </section>
 
-<section class="culinary-worlds-benefits-section" data-layout-spec="עולמות קולינריים-benefits">
-  <div class="culinary-worlds-benefits-section__container">
-    <!-- Section Header -->
-    <header class="culinary-worlds-benefits-section__header">
-      <h2 class="culinary-worlds-benefits-section__title">היתרונות של לקנות בממלכת הטעמים</h2>
-      <p class="culinary-worlds-benefits-section__subtitle">
-        כשאתם בוחרים לקנות אצלנו, אתם לא רק רוכשים מוצרים – אתם מצטרפים למסע של גילוי קולינרי, איכות ללא פשרות והשראה יומיומית למטבח הביתי.
-      </p>
-    </header>
-
-    <nav class="zappy-catalog-menu rtl" id="zappy-catalog-menu" dir="rtl" style="display:none">
-      <div class="catalog-menu-container">
-        <a href="/products" class="catalog-menu-item catalog-menu-all">מוצרים</a>
-        <div class="catalog-menu-categories" id="zappy-category-links">
-          <!-- Categories will be loaded dynamically -->
+<section class="blog-benefits-section" data-layout-spec="עולמות קולינריים-benefits">
+  <div class="blog-benefits-container">
+    <h2 class="blog-benefits-title">למה לבחור בהקולה מרקט?</h2>
+    <p class="blog-benefits-subtitle">המסע הקולינרי שלכם מתחיל כאן – עם איכות, טריות ומגוון שאין שני לו</p>
+    
+    <div class="blog-benefits-grid">
+      <!-- Benefit 1 -->
+      <div class="blog-benefits-card">
+        <div class="blog-benefits-card-content">
+          <h3 class="blog-benefits-card-title">טריות ללא פשרות</h3>
+          <p class="blog-benefits-card-text">אנו טוחנים את התבלינים והקפה מדי שבוע, מייבאים חומרי גלם עונתיים ישירות מהמקור, ודואגים שכל מוצר יגיע אליכם בשיא טריותו. האריזות האטומות שלנו שומרות על הניחוחות והטעמים לאורך זמן.</p>
+        </div>
+        <div class="blog-benefits-card-icon">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+            <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+            <path d="M2 17l10 5 10-5"></path>
+            <path d="M2 12l10 5 10-5"></path>
+          </svg>
         </div>
       </div>
-    </nav>
-  
 
-    <!-- Benefits Bands -->
-    <div class="culinary-worlds-benefits-section__bands">
-      
-      <!-- Band 1: Quality Confidence -->
-      <article class="culinary-worlds-benefits-section__band">
-        <div class="culinary-worlds-benefits-section__band-text">
-          <h3 class="culinary-worlds-benefits-section__band-title">איכות שאפשר לסמוך עליה</h3>
-          <p class="culinary-worlds-benefits-section__band-desc">
-            כל מוצר עובר בדיקת טריות קפדנית. מהתבלינים ועד הפיצוחים, אנחנו בוחרים את חומרי הגלם המשובחים ביותר כדי להבטיח שכל ביס יהיה מושלם. המחויבות שלנו לאיכות היא הבסיס לכל מה שאנחנו עושים.
-          </p>
+      <!-- Benefit 2 -->
+      <div class="blog-benefits-card">
+        <div class="blog-benefits-card-content">
+          <h3 class="blog-benefits-card-title">מגוון עולמות קולינריים</h3>
+          <p class="blog-benefits-card-text">מהמטבח האיטלקי ועד למטבח האסייתי, ממזווה ים-תיכוני ועד למתוקים מפנקים – אצלנו תמצאו מעל 2,000 מוצרים ייחודיים המותאמים לכל סגנון בישול. טבעוני, קטוגני או סתם חובב אוכל – יש לנו הכל.</p>
         </div>
-        <div class="culinary-worlds-benefits-section__band-accent" aria-hidden="true">
-          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="40" cy="40" r="38" stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 6"></circle>
-            <path d="M24 42L36 54L56 30" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+        <div class="blog-benefits-card-icon">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+            <circle cx="12" cy="12" r="10"></circle>
+            <path d="M2 12h20"></path>
+            <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"></path>
           </svg>
         </div>
-      </article>
+      </div>
 
-      <!-- Band 2: Recipe Inspiration -->
-      <article class="culinary-worlds-benefits-section__band">
-        <div class="culinary-worlds-benefits-section__band-text">
-          <h3 class="culinary-worlds-benefits-section__band-title">השראה למתכונים חדשים</h3>
-          <p class="culinary-worlds-benefits-section__band-desc">
-            המגוון העצום שלנו פותח דלת לעולמות קולינריים חדשים. רוצים להכין פסטה איטלקית אותנטית? קארי תאילנדי עשיר? או אולי עוגת שמרים מפנקת? אצלנו תמצאו את כל מה שאתם צריכים ואת ההשראה להתחיל לבשל.
-          </p>
+      <!-- Benefit 3 -->
+      <div class="blog-benefits-card">
+        <div class="blog-benefits-card-content">
+          <h3 class="blog-benefits-card-title">משלוח עד הבית בקליק</h3>
+          <p class="blog-benefits-card-text">חוויית קנייה דיגיטלית חלקה, מאובטחת ומהירה. ההזמנה שלכם נארזת באהבה בסניפים שלנו בנתניה ובצורן, ונשלחת עד פתח ביתכם תוך 2-4 ימי עסקים. שירות לקוחות אנושי וחם תמיד זמין עבורכם בוואטסאפ.</p>
         </div>
-        <div class="culinary-worlds-benefits-section__band-accent" aria-hidden="true">
-          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <path d="M20 30C20 30 30 20 40 30C50 40 60 30 60 30" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
-            <path d="M25 40C25 40 32 34 40 40C48 46 55 40 55 40" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
-            <path d="M30 50C30 50 35 46 40 50C45 54 50 50 50 50" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
-            <circle cx="40" cy="40" r="38" stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 6"></circle>
+        <div class="blog-benefits-card-icon">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+            <rect x="1" y="3" width="15" height="13"></rect>
+            <polygon points="16 8 20 8 23 11 23 16 16 16 16 8"></polygon>
+            <circle cx="5.5" cy="18.5" r="2.5"></circle>
+            <circle cx="18.5" cy="18.5" r="2.5"></circle>
           </svg>
         </div>
-      </article>
+      </div>
 
-      <!-- Band 3: Dietary Support -->
-      <article class="culinary-worlds-benefits-section__band">
-        <div class="culinary-worlds-benefits-section__band-text">
-          <h3 class="culinary-worlds-benefits-section__band-title">תמיכה בתזונה מודעת</h3>
-          <p class="culinary-worlds-benefits-section__band-desc">
-            בין אם אתם טבעונים, שומרים על תזונה קטוגנית, או פשוט מחפשים מרכיבים בריאים יותר – אנחנו כאן בשבילכם. המדפים שלנו מלאים בקמחים ייחודיים, קטניות, ומוצרים מיוחדים שמתאימים בדיוק לאורח החיים שלכם.
-          </p>
+      <!-- Benefit 4 -->
+      <div class="blog-benefits-card">
+        <div class="blog-benefits-card-content">
+          <h3 class="blog-benefits-card-title">עסק משפחתי עם נשמה</h3>
+          <p class="blog-benefits-card-text">מאז 2014, אנחנו משפחה אחת גדולה שחולקת אהבה לאוכל משובח. כל מוצר נבחר בקפידה על ידינו, ואנו מקפידים על יחס אישי, מחירים הוגנים, ושקיפות מלאה. כשאתם קונים אצלנו, אתם תומכים בעסק מקומי עם ערכים אמיתיים.</p>
         </div>
-        <div class="culinary-worlds-benefits-section__band-accent" aria-hidden="true">
-          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="40" cy="40" r="38" stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 6"></circle>
-            <path d="M28 40L36 48L52 32" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
-            <path d="M20 55H60" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
+        <div class="blog-benefits-card-icon">
+          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+            <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"></path>
           </svg>
         </div>
-      </article>
-
-      <!-- Band 4: Hard-to-Find Pantry -->
-      <article class="culinary-worlds-benefits-section__band">
-        <div class="culinary-worlds-benefits-section__band-text">
-          <h3 class="culinary-worlds-benefits-section__band-title">מצרכים נדירים, במרחק קליק</h3>
-          <p class="culinary-worlds-benefits-section__band-desc">
-            הפסיקו לחפש בחנויות. מרכיבים אסייתים אותנטיים, פסטות איטלקיות מיוחדות, קפה טחון טרי, ותערובות תבלינים נדירות – כל מה שקשה למצוא, אנחנו מביאים עד אליכם הביתה, טרי וארוז בקפידה.
-          </p>
-        </div>
-        <div class="culinary-worlds-benefits-section__band-accent" aria-hidden="true">
-          <svg data-element-type="icon" data-icon-type="svg" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <circle cx="40" cy="40" r="38" stroke="currentColor" stroke-width="1.5" stroke-dasharray="4 6"></circle>
-            <path d="M26 50V28L40 38L54 28V50" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
-            <path d="M26 50H54" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
-          </svg>
-        </div>
-      </article>
-
+      </div>
     </div>
-  </div>
 
-  <!-- Stepped Paper-Layer Divider (Bottom Transition) -->
-  <div class="culinary-worlds-benefits-section__divider-wrapper" aria-hidden="true">
-    <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 1200 80" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0,80 L0,30 L200,30 L200,15 L500,15 L500,30 L800,30 L800,15 L1100,15 L1100,30 L1200,30 L1200,80 Z" fill="#FBF5E6"></path>
-    </svg>
+    <div class="blog-benefits-decoration">
+      <svg data-no-icon-edit="true" aria-hidden="true" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg" class="blog-benefits-spice-ornament">
+        <path d="M20,30 Q40,10 60,30 T100,30 T140,30 T180,30" fill="none" stroke="var(--primary)" stroke-width="1.5" opacity="0.4"></path>
+        <circle cx="100" cy="30" r="4" fill="var(--primary)" opacity="0.5"></circle>
+        <path d="M80,30 Q90,40 100,30 Q110,20 120,30" fill="none" stroke="var(--primary)" stroke-width="1" opacity="0.3"></path>
+        <path d="M60,30 Q70,40 80,30" fill="none" stroke="var(--primary)" stroke-width="1" opacity="0.3"></path>
+        <path d="M120,30 Q130,40 140,30" fill="none" stroke="var(--primary)" stroke-width="1" opacity="0.3"></path>
+      </svg>
+    </div>
   </div>
 </section>
 
