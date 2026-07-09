@@ -4,7 +4,7 @@
     <title>הקולה Market</title>
     <link>https://hakola-market-1.zappy5.app</link>
     <description>Product feed for הקולה Market</description>
-    <lastBuildDate>Thu, 09 Jul 2026 07:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:33:57 GMT</lastBuildDate>
     <item>
       <g:id>7757c47a-07ef-4b04-831d-3a385d5c9b28</g:id>
       <g:title>חטיף שומשום ללא תוספת סוכר 330 גרם</g:title>
@@ -247,19 +247,6 @@
       <g:brand>הקולה Market</g:brand>
       <g:mpn>52e04c024dd3</g:mpn>
       <g:product_type>בריאות ואנרגיה</g:product_type>
-    </item>
-    <item>
-      <g:id>35579c54-0804-4e1e-a09c-379d6283f4b5</g:id>
-      <g:title>* שומשום לבן - 350 גרם</g:title>
-      <g:description>* שומשום לבן - 350 גרם</g:description>
-      <g:link>https://hakola-market-1.zappy5.app/product/shvmshvm-lbn-350-grm-opu1py</g:link>
-      <g:image_link>https://hakola-market-1.zappy5.app/assets/product-1783581528357-m4gknu.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>0.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>הקולה Market</g:brand>
-      <g:mpn>7caf61628ab9-1</g:mpn>
-      <g:product_type>צורן</g:product_type>
     </item>
     <item>
       <g:id>888dab74-34db-4a15-a98c-39896b443c12</g:id>
@@ -1125,19 +1112,6 @@
       <g:product_type>המתוקים שלנו</g:product_type>
     </item>
     <item>
-      <g:id>52fdaebc-b44d-4c40-ab5c-9d993a1b04e1</g:id>
-      <g:title>שוקולד עדשים - 400 גרם</g:title>
-      <g:description>שוקולד עדשים - 400 גרם</g:description>
-      <g:link>https://hakola-market-1.zappy5.app/product/shvkvld-adshym-400-grm-2zi9y2</g:link>
-      <g:image_link>https://hakola-market-1.zappy5.app/assets/product-1783581518587-pl7gak.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>0.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>הקולה Market</g:brand>
-      <g:mpn>aeaae9773192-2-1</g:mpn>
-      <g:product_type>צורן</g:product_type>
-    </item>
-    <item>
       <g:id>ae81a4a8-488b-46b5-84be-2be92ad26d7d</g:id>
       <g:title>זעתר לבנוני</g:title>
       <g:description>עלי זעתר טחון בתוספת שום, סומק ומלח. מתאים במיוחד בעיקר לתיבול מאפים ורטבים בסגנון המטבח הים תיכוני.</g:description>
@@ -1201,19 +1175,6 @@
       <g:product_type>המתוקים שלנו</g:product_type>
     </item>
     <item>
-      <g:id>cc375de4-32e8-4dd5-84d4-f14f8a10afe3</g:id>
-      <g:title>מיקס הקולה - דלי</g:title>
-      <g:description>מכיל אגוזי מלך, קשיו, שקדים, אגוזי לוז, חמוציות ללא סוכר, פיסטוק, ג׳וגי ברי, קוקוס, צימוק לבן וגולדן ברי</g:description>
-      <g:link>https://hakola-market-1.zappy5.app/product/myks-hkvlh-dly-ufyljf</g:link>
-      <g:image_link>https://hakola-market-1.zappy5.app/assets/product-1783581516864-nc4431.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>0.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>הקולה Market</g:brand>
-      <g:mpn>e98a256aeedf-1</g:mpn>
-      <g:product_type>צורן</g:product_type>
-    </item>
-    <item>
       <g:id>774cfc46-9ea7-408c-8e02-6a13829e7b70</g:id>
       <g:title>ג&apos;חנון בייתי בצק קפוא בעבודת יד</g:title>
       <g:description>ג&apos;חנון בייתי קפוא בעבודת יד - רק לאפות בתנור. מגיע עטוף אחד אחד.</g:description>
@@ -1236,32 +1197,6 @@
       <g:brand>הקולה Market</g:brand>
       <g:mpn>16110</g:mpn>
       <g:product_type>חליטות תה</g:product_type>
-    </item>
-    <item>
-      <g:id>a6710505-77a8-46e7-9e72-c9cada83c0a2</g:id>
-      <g:title>* חומוס מקסיקני - 500 גרם</g:title>
-      <g:description>* חומוס מקסיקני - 500 גרם</g:description>
-      <g:link>https://hakola-market-1.zappy5.app/product/chvmvs-mksykny-500-grm-zzzvs9</g:link>
-      <g:image_link>https://hakola-market-1.zappy5.app/assets/product-1783581516730-yp7kit.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>0.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>הקולה Market</g:brand>
-      <g:mpn>966bd68a7553-1</g:mpn>
-      <g:product_type>צורן</g:product_type>
-    </item>
-    <item>
-      <g:id>4c1d3201-ffb1-4985-986f-e3a66e6debf2</g:id>
-      <g:title>* דוחן - 500 גרם</g:title>
-      <g:description>* דוחן - 500 גרם</g:description>
-      <g:link>https://hakola-market-1.zappy5.app/product/dvchn-500-grm-5fwia5</g:link>
-      <g:image_link>https://hakola-market-1.zappy5.app/assets/product-1783581516744-p9riok.webp</g:image_link>
-      <g:availability>in_stock</g:availability>
-      <g:price>0.00 ILS</g:price>
-      <g:condition>new</g:condition>
-      <g:brand>הקולה Market</g:brand>
-      <g:mpn>911606084603-1</g:mpn>
-      <g:product_type>צורן</g:product_type>
     </item>
     <item>
       <g:id>0b5c6fcb-2549-46a1-9f72-f3028737a3f6</g:id>

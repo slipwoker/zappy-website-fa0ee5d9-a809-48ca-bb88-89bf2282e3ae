@@ -5918,14 +5918,6 @@ SKU: 52e04c024dd3
 
 ---
 
-### * שומשום לבן - 350 גרם
-URL: https://hakola-market-1.zappy5.app/product/shvmshvm-lbn-350-grm-opu1py
-Price: 0.00 ILS
-Availability: In stock
-SKU: 7caf61628ab9-1
-
----
-
 ### לחם באו באן - לחם מאודה אסיאתי מסורתי - Taste of Asia
 URL: https://hakola-market-1.zappy5.app/product/lchm-bav-ban-lchm-mavdh-asyaty-msvrty-taste-of-asia-492nzg
 Price: 12.90 ILS
@@ -6470,14 +6462,6 @@ SKU: 3251bed7a8f5
 
 ---
 
-### שוקולד עדשים - 400 גרם
-URL: https://hakola-market-1.zappy5.app/product/shvkvld-adshym-400-grm-2zi9y2
-Price: 0.00 ILS
-Availability: In stock
-SKU: aeaae9773192-2-1
-
----
-
 ### זעתר לבנוני
 URL: https://hakola-market-1.zappy5.app/product/zatr-lbnvny-w8jbe7
 Price: 69.00 ILS
@@ -6518,14 +6502,6 @@ SKU: cbe206d0e1d0-1
 
 ---
 
-### מיקס הקולה - דלי
-URL: https://hakola-market-1.zappy5.app/product/myks-hkvlh-dly-ufyljf
-Price: 0.00 ILS
-Availability: In stock
-SKU: e98a256aeedf-1
-
----
-
 ### ג'חנון בייתי בצק קפוא בעבודת יד
 URL: https://hakola-market-1.zappy5.app/product/gchnvn-byyty-btsk-kpva-babvdt-yd-d8o4vk
 Price: 6.00 ILS
@@ -6539,22 +6515,6 @@ URL: https://hakola-market-1.zappy5.app/product/lmvn-gras-lymvnyt-myvbsh-6rdkqe
 Price: 11.90 ILS
 Availability: In stock
 SKU: 16110
-
----
-
-### * חומוס מקסיקני - 500 גרם
-URL: https://hakola-market-1.zappy5.app/product/chvmvs-mksykny-500-grm-zzzvs9
-Price: 0.00 ILS
-Availability: In stock
-SKU: 966bd68a7553-1
-
----
-
-### * דוחן - 500 גרם
-URL: https://hakola-market-1.zappy5.app/product/dvchn-500-grm-5fwia5
-Price: 0.00 ILS
-Availability: In stock
-SKU: 911606084603-1
 
 ---
 

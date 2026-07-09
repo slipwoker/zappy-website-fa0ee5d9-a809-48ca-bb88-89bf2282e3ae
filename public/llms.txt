@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 102**
+**Total active products: 97**
 
 ### חטיף שומשום ללא תוספת סוכר 330 גרם
 https://hakola-market-1.zappy5.app/product/chtyp-shvmshvm-lla-tvspt-svkr-330-grm-aa0nwt
@@ -235,14 +235,6 @@ https://hakola-market-1.zappy5.app/product/ptyty-spyrvlynh-100-grm-kvpsh-b1yttb
 - Availability: In stock
 - Category: בריאות ואנרגיה
 - SKU: 52e04c024dd3
-
-### * שומשום לבן - 350 גרם
-https://hakola-market-1.zappy5.app/product/shvmshvm-lbn-350-grm-opu1py
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: 7caf61628ab9-1
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783581528357-m4gknu.webp
 
 ### לחם באו באן - לחם מאודה אסיאתי מסורתי - Taste of Asia
 https://hakola-market-1.zappy5.app/product/lchm-bav-ban-lchm-mavdh-asyaty-msvrty-taste-of-asia-492nzg
@@ -801,14 +793,6 @@ https://hakola-market-1.zappy5.app/product/prlynym-lbnym-btam-chlb-bmylvy-krm-lb
 - SKU: 3251bed7a8f5
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783581518572-djxmju.webp
 
-### שוקולד עדשים - 400 גרם
-https://hakola-market-1.zappy5.app/product/shvkvld-adshym-400-grm-2zi9y2
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: aeaae9773192-2-1
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783581518587-pl7gak.webp
-
 ### זעתר לבנוני
 https://hakola-market-1.zappy5.app/product/zatr-lbnvny-w8jbe7
 - Price: 69.00 ILS
@@ -851,15 +835,6 @@ https://hakola-market-1.zappy5.app/product/mkvplt-shvkv-vnyl-81mh8n
 - Category: המתוקים שלנו
 - SKU: cbe206d0e1d0-1
 
-### מיקס הקולה - דלי
-https://hakola-market-1.zappy5.app/product/myks-hkvlh-dly-ufyljf
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: e98a256aeedf-1
-- Description: מכיל אגוזי מלך, קשיו, שקדים, אגוזי לוז, חמוציות ללא סוכר, פיסטוק, ג׳וגי ברי, קוקוס, צימוק לבן וגולדן ברי
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783581516864-nc4431.webp
-
 ### ג'חנון בייתי בצק קפוא בעבודת יד
 https://hakola-market-1.zappy5.app/product/gchnvn-byyty-btsk-kpva-babvdt-yd-d8o4vk
 - Price: 6.00 ILS
@@ -874,22 +849,6 @@ https://hakola-market-1.zappy5.app/product/lmvn-gras-lymvnyt-myvbsh-6rdkqe
 - Availability: In stock
 - Category: חליטות תה
 - SKU: 16110
-
-### * חומוס מקסיקני - 500 גרם
-https://hakola-market-1.zappy5.app/product/chvmvs-mksykny-500-grm-zzzvs9
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: 966bd68a7553-1
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783581516730-yp7kit.webp
-
-### * דוחן - 500 גרם
-https://hakola-market-1.zappy5.app/product/dvchn-500-grm-5fwia5
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: 911606084603-1
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783581516744-p9riok.webp
 
 ### תמר מג׳הול רגיל
 https://hakola-market-1.zappy5.app/product/tmr-mghvl-rgyl-h8ev4o

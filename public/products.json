@@ -1,9 +1,9 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T07:19:22.265Z",
+  "generated_at": "2026-07-09T07:33:57.522Z",
   "base_url": "https://hakola-market-1.zappy5.app",
   "currency": "ILS",
-  "count": 102,
+  "count": 97,
   "products": [
     {
       "id": "7757c47a-07ef-4b04-831d-3a385d5c9b28",
@@ -477,30 +477,6 @@
         "חטיפי בריאות ואנרגיה"
       ],
       "updated_at": "2026-07-09T07:18:48.563Z"
-    },
-    {
-      "id": "35579c54-0804-4e1e-a09c-379d6283f4b5",
-      "slug": "shvmshvm-lbn-350-grm-opu1py",
-      "name": "* שומשום לבן - 350 גרם",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": "7caf61628ab9-1",
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://hakola-market-1.zappy5.app/assets/product-1783581528357-m4gknu.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://hakola-market-1.zappy5.app/product/shvmshvm-lbn-350-grm-opu1py",
-      "categories": [
-        "צורן"
-      ],
-      "updated_at": "2026-07-09T07:18:48.561Z"
     },
     {
       "id": "888dab74-34db-4a15-a98c-39896b443c12",
@@ -2198,30 +2174,6 @@
       "updated_at": "2026-07-09T07:18:38.864Z"
     },
     {
-      "id": "52fdaebc-b44d-4c40-ab5c-9d993a1b04e1",
-      "slug": "shvkvld-adshym-400-grm-2zi9y2",
-      "name": "שוקולד עדשים - 400 גרם",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": "aeaae9773192-2-1",
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://hakola-market-1.zappy5.app/assets/product-1783581518587-pl7gak.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://hakola-market-1.zappy5.app/product/shvkvld-adshym-400-grm-2zi9y2",
-      "categories": [
-        "צורן"
-      ],
-      "updated_at": "2026-07-09T07:18:38.862Z"
-    },
-    {
       "id": "ae81a4a8-488b-46b5-84be-2be92ad26d7d",
       "slug": "zatr-lbnvny-w8jbe7",
       "name": "זעתר לבנוני",
@@ -2343,30 +2295,6 @@
       "updated_at": "2026-07-09T07:18:37.386Z"
     },
     {
-      "id": "cc375de4-32e8-4dd5-84d4-f14f8a10afe3",
-      "slug": "myks-hkvlh-dly-ufyljf",
-      "name": "מיקס הקולה - דלי",
-      "name_translations": {},
-      "description": "",
-      "short_description": "מכיל אגוזי מלך, קשיו, שקדים, אגוזי לוז, חמוציות ללא סוכר, פיסטוק, ג׳וגי ברי, קוקוס, צימוק לבן וגולדן ברי",
-      "sku": "e98a256aeedf-1",
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://hakola-market-1.zappy5.app/assets/product-1783581516864-nc4431.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://hakola-market-1.zappy5.app/product/myks-hkvlh-dly-ufyljf",
-      "categories": [
-        "צורן"
-      ],
-      "updated_at": "2026-07-09T07:18:37.186Z"
-    },
-    {
       "id": "774cfc46-9ea7-408c-8e02-6a13829e7b70",
       "slug": "gchnvn-byyty-btsk-kpva-babvdt-yd-d8o4vk",
       "name": "ג'חנון בייתי בצק קפוא בעבודת יד",
@@ -2412,54 +2340,6 @@
         "קפה וחליטות"
       ],
       "updated_at": "2026-07-09T07:18:37.150Z"
-    },
-    {
-      "id": "a6710505-77a8-46e7-9e72-c9cada83c0a2",
-      "slug": "chvmvs-mksykny-500-grm-zzzvs9",
-      "name": "* חומוס מקסיקני - 500 גרם",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": "966bd68a7553-1",
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://hakola-market-1.zappy5.app/assets/product-1783581516730-yp7kit.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://hakola-market-1.zappy5.app/product/chvmvs-mksykny-500-grm-zzzvs9",
-      "categories": [
-        "צורן"
-      ],
-      "updated_at": "2026-07-09T07:18:37.129Z"
-    },
-    {
-      "id": "4c1d3201-ffb1-4985-986f-e3a66e6debf2",
-      "slug": "dvchn-500-grm-5fwia5",
-      "name": "* דוחן - 500 גרם",
-      "name_translations": {},
-      "description": "",
-      "short_description": null,
-      "sku": "911606084603-1",
-      "brand": null,
-      "price": 0,
-      "base_price": 0,
-      "sale_price": null,
-      "currency": "ILS",
-      "images": [
-        "https://hakola-market-1.zappy5.app/assets/product-1783581516744-p9riok.webp"
-      ],
-      "in_stock": true,
-      "stock_status": "in_stock",
-      "url": "https://hakola-market-1.zappy5.app/product/dvchn-500-grm-5fwia5",
-      "categories": [
-        "צורן"
-      ],
-      "updated_at": "2026-07-09T07:18:37.120Z"
     },
     {
       "id": "0b5c6fcb-2549-46a1-9f72-f3028737a3f6",
