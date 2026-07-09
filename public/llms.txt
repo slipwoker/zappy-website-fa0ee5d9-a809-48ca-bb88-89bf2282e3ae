@@ -141,7 +141,7 @@ https://hakola-market-1.zappy5.app/product/mshkh-svyh-avrgny-lla-tvspt-svkr-1-ly
 https://hakola-market-1.zappy5.app/product/agvz-lvz-tbay-ot7z12
 - Price: 99.00 ILS
 - Availability: In stock
-- Category: אגוזים וגרעינים טבעיים
+- Category: אגוזים ופיצוחים
 - SKU: 2003
 - Description: עיקר השומן באגוזי הלוז הוא שומן חד-בלתי רווי, זהו סוג השומן שצריך להוות את עיקר צריכת השומן שלנו. הם עשירים בוויטמינים, בברזל (עשרה אגוזי לוז מכילים ברזל כמו ירך עוף אם כי הספיגה טובה יותר מבשרים), במגנזיום ובפיטוסטרולים. גיוון התפריט באגוזי לוז מאפשר שמירה על בריאות הלב ועל רמות תקינות של שומנים בדם. אגוזי הלוז מכילים כמות גבוהה של סיבים תזונתיים ומספקים גם ויטמינים ומינרלים רבים, כגון ויטמין E, חומצות שומן אומגה-3, מגנזיום, נחושת וזרחן. יש לציין כי אגוזי לוז מכילים כמות גבוהה של שומן ולכן יש ל…
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783585140301-ace0ca.webp
@@ -184,7 +184,7 @@ https://hakola-market-1.zappy5.app/product/svkryvt-shchvr-lbn-btam-lykryts-lla-s
 https://hakola-market-1.zappy5.app/product/atryvt-am-agbnyvt-taste-of-asia-2lsne7
 - Price: 12.90 ILS
 - Availability: In stock
-- Category: אטריות ודפי אורז
+- Category: המטבח האסייתי
 - SKU: 15176
 - Description: מכיל: 454 גרם
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783585138944-bv8tnu.webp
@@ -264,7 +264,7 @@ https://hakola-market-1.zappy5.app/product/chtyp-chlbvn-btam-vnylh-krants-avl-ay
 https://hakola-market-1.zappy5.app/product/myks-agvzym-tbayym-ktki98
 - Price: 92.00 ILS
 - Availability: In stock
-- Category: אגוזים וגרעינים טבעיים
+- Category: אגוזים ופיצוחים
 - SKU: 2014
 - Description: מכיל אגוזי מלך, שקדים, אגוזי לוז, פיסטוק וקשיו
 
@@ -513,7 +513,7 @@ https://hakola-market-1.zappy5.app/product/byp-grky-klasy-kytv-g7ascz
 https://hakola-market-1.zappy5.app/product/agvz-mlk-tbay-prymyvm-8p5v3g
 - Price: 65.00 ILS
 - Availability: In stock
-- Category: אגוזים וגרעינים טבעיים
+- Category: אגוזים ופיצוחים
 - SKU: 2007
 - Description: אצלנו תמצאו אגוזי מלך המגיעים אלינו ישירות מצ׳ילה. האגוזים הצ׳יליאנים מובחרים במיוחד, הם איכותיים, בהירים, טריים ומכילים מעל 90% חצאים - כלומר הם חצויים כמעט בשלמות ומכילים פחות פירורים. הם נקטפים מלב העץ ולכן הם יותר בשרניים, פחות שומניים וללא טעם הלוואי שנוצר כתוצאה מאגוזים שבורים ומתפוררים. אגוז מלך הוא אחד מהמזונות העתיקים והבריאים בעולם. אל תחששו מהקלוריות - תוספת של שבעה אגוזי מלך לתפריט היומי תעניק לגופכם נוגדי חמצון יעילים, תסייע להפחית את רמת הכולסטרול הרע בדם, תקטין הסיכון לחלות במחלות…
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783585130701-spok9.webp
@@ -641,7 +641,7 @@ https://hakola-market-1.zappy5.app/product/kvkvs-tchvn-160-grm-ozu7kt
 https://hakola-market-1.zappy5.app/product/shkd-mvlbn-shlm-6iwucb
 - Price: 79.00 ILS
 - Availability: In stock
-- Category: אגוזים וגרעינים טבעיים
+- Category: אגוזים ופיצוחים
 - SKU: 2035
 - Description: שקדים עשירים בשומן בלתי רווי החשוב לפעילות הלב ובסידן: בעשרים יחידות יש סידן כמו בשליש כוס חלב. בנוסף, הם מכילים ויטמין E , ברזל, אבץ, סיבים תזונתיים ופיטוסטרולים - חומרים צמחיים דמויי כולסטרול אשר מסייעים בהורדת רמות הכולסטרול בדם. צריכת שקדים כחלק מתפריט מאוזן יכולה לסייע בהגנה מפני מחלות לב וכלי דם והם נחשבים ברפואה העממית כמקלים על צרבת. השקדים משמשים כתוספת למאכלים רבים, מבשרים ועד אורז, סלטים ועוגות. מהשקדים המולבנים מכינים מרציפן או משקה שקדי - רוזטה.
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783585129551-kh13hk.webp
