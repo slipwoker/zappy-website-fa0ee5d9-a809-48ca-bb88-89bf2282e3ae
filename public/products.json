@@ -1,10 +1,2466 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-29T06:14:36.254Z",
+  "generated_at": "2026-07-09T07:19:22.265Z",
   "base_url": "https://hakola-market-1.zappy5.app",
   "currency": "ILS",
-  "count": 2,
+  "count": 102,
   "products": [
+    {
+      "id": "7757c47a-07ef-4b04-831d-3a385d5c9b28",
+      "slug": "chtyp-shvmshvm-lla-tvspt-svkr-330-grm-aa0nwt",
+      "name": "חטיף שומשום ללא תוספת סוכר 330 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "42a4b3ded1ab",
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529744-em4io9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chtyp-shvmshvm-lla-tvspt-svkr-330-grm-aa0nwt",
+      "categories": [
+        "המתוקים שלנו",
+        "לוקום וחלביצה"
+      ],
+      "updated_at": "2026-07-09T07:18:50.412Z"
+    },
+    {
+      "id": "9bd42593-b4d6-4cbb-8929-2852df878ba7",
+      "slug": "shvkvld-lbn-mavlh-am-shbry-pystvk-100-grm-holy-cacao-ybsr0z",
+      "name": "שוקולד לבן מעולה עם שברי פיסטוק 100 גרם- Holy cacao",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חלבי",
+      "sku": "48848d71ceac-3-1-1-1-2",
+      "brand": null,
+      "price": 21.9,
+      "base_price": 21.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529618-ddvtc.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shvkvld-lbn-mavlh-am-shbry-pystvk-100-grm-holy-cacao-ybsr0z",
+      "categories": [
+        "המתוקים שלנו",
+        "לחמים ומאפים",
+        "מבצע הולי קקאו 2 ב-30",
+        "מבצעים קבועים",
+        "מוצרי אפייה",
+        "שוקולדים"
+      ],
+      "updated_at": "2026-07-09T07:18:50.293Z"
+    },
+    {
+      "id": "cfeffe54-725a-45ed-bc95-c0a16ad1a5fb",
+      "slug": "avgyvt-avzny-pyl-namh-briacz",
+      "name": "עוגיות אוזני פיל (נעמה)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עוגיות בעבודת יד",
+      "sku": "d993b04e06c2",
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529744-ke3uwo.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/avgyvt-avzny-pyl-namh-briacz",
+      "categories": [
+        "לחמים ומאפים",
+        "עוגיות\\",
+        "קרקרים וגריסיני"
+      ],
+      "updated_at": "2026-07-09T07:18:50.237Z"
+    },
+    {
+      "id": "bed0e3e0-8024-4123-99a2-a5adedaa09fd",
+      "slug": "avgyvt-rybh-lla-tvspt-svkr-namh-c72um9",
+      "name": "עוגיות ריבה ללא תוספת סוכר (נעמה)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עוגיות בעבודת יד",
+      "sku": "3d2bc2097d73",
+      "brand": null,
+      "price": 25,
+      "base_price": 25,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529743-xnto46.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/avgyvt-rybh-lla-tvspt-svkr-namh-c72um9",
+      "categories": [
+        "לחמים ומאפים",
+        "עוגיות\\",
+        "קרקרים וגריסיני"
+      ],
+      "updated_at": "2026-07-09T07:18:50.131Z"
+    },
+    {
+      "id": "fa2e7c92-795c-4b4f-a24d-8dd2c32516c9",
+      "slug": "kvrnyshvnym-bchvmts-yvvnym-355-grm-st0cz4",
+      "name": "קורנישונים בחומץ יוונים 355 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529614-zvz6oh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/kvrnyshvnym-bchvmts-yvvnym-355-grm-st0cz4",
+      "categories": [
+        "דף הבית - מוצרים חדשים",
+        "זיתים ומוצרי מעדניה"
+      ],
+      "updated_at": "2026-07-09T07:18:50.083Z"
+    },
+    {
+      "id": "8c468266-8ddb-48cf-8570-70a30e490a02",
+      "slug": "mmrch-mtvbl-spyysy-446-grm-mastr-shp-pfytu3",
+      "name": "ממרח מתובל ספייסי 446 גרם - מאסטר שף",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "11228",
+      "brand": null,
+      "price": 16.9,
+      "base_price": 16.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529618-zjow5p.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mmrch-mtvbl-spyysy-446-grm-mastr-shp-pfytu3",
+      "categories": [
+        "מוצרים לבישול",
+        "ממרחים ומטבלים",
+        "ממרחים ורטבים"
+      ],
+      "updated_at": "2026-07-09T07:18:50.081Z"
+    },
+    {
+      "id": "f61fb8b2-9cb5-4690-a099-7c2e1bac0bf7",
+      "slug": "gvldn-bry-lla-tvspt-svkr-iiliv1",
+      "name": "גולדן ברי ללא תוספת סוכר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "גולדן ברי הם גרגרי יער זהובים, המכונים בעברית שלפח ומשווקים תחת השם דובדבן אהבה ופנסים סיניים. הפרי הכתום המרהיב שייך למשפחת הסולניים אליה משתייכים גם העגבנייה, החציל והפלפל. אף הם גדלים על שיח ועטופים בקליפה מנייר הנקראת גביע שיש להסיר לפני האכילה, הפרי נאכל כאשר הוא בשל וצבעו כתום זהוב. יש המכנים אותו ‘סופר פרוט’ מאחר שהוא מכיל תרכובות צמחיות המסייעות לבריאות הגוף. גרגרי היער הזהובים עשירים בנוגדי חמצון, המגנים על הגוף מנזקי הרדיקלים החופשיים, הגרגר הינו בעל תכונות אנטי דלקתיות, הוא מסייע לאיזון הכולסטרול, הוא מסייע לאיזון רמות הסוכר ומעצם היותו עתיר ויטמינים ומינרלים כגון: ברזל, סיבים תזונתיים, ויטמין C , חלבון, ויטמין ,B3 זרחן, סידן, בטא קרוטן ועוד הוא קיבל מעמד של כבוד בתזונה המודרנית. לפירות אלה טעם מתוק וטרופי המזכיר מעט את האננס והמנגו וניתן לאכול אותם בצורתם הטבעית או לשלבם בסלטים, רטבים, ריבות ועוד.",
+      "sku": "3010",
+      "brand": null,
+      "price": 110,
+      "base_price": 110,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529592-svplni.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/gvldn-bry-lla-tvspt-svkr-iiliv1",
+      "categories": [
+        "פירות יבשים",
+        "פירות יבשים ללא תוספת סוכר"
+      ],
+      "updated_at": "2026-07-09T07:18:50.081Z"
+    },
+    {
+      "id": "8c07a311-b7d8-4759-afc1-08bfb88edb62",
+      "slug": "mshkh-svyh-avrgny-lla-tvspt-svkr-1-lytr-the-bridge-x9w9kj",
+      "name": "משקה סויה אורגני ללא תוספת סוכר 1 ליטר - The Bridge",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ללא גלוטן",
+      "sku": "13035",
+      "brand": null,
+      "price": 13.9,
+      "base_price": 13.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529743-g4iqgm.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mshkh-svyh-avrgny-lla-tvspt-svkr-1-lytr-the-bridge-x9w9kj",
+      "categories": [
+        "חלב צמחי"
+      ],
+      "updated_at": "2026-07-09T07:18:50.080Z"
+    },
+    {
+      "id": "174c1350-9d68-4a8d-b82d-62713dd883ec",
+      "slug": "avrz-bsmty-500-grm-f3h4ps",
+      "name": "אורז בסמטי - 500 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שמוצאו מהודו והוא בעל גרגרים ארוכים וארומה מבושמת. גרגריו נחשבים לאיכותיים במיוחד ובסמטי “אורגינל” נמכר במחיר גבוה מאוד אצל המבינים. יש הנוטים לבלבל אותו עם אורז “בוסמטי”‘ שגם גרגריו ארוכים אך נטולי איכות וארומה ייחודיים. אורז בסמטי מתאים במיוחד להגשה לצד תבשילים מהמטבח ההודי/התאילנדי כמו קארי.",
+      "sku": "430338b7b785",
+      "brand": null,
+      "price": 6,
+      "base_price": 6,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529595-un6dik.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/avrz-bsmty-500-grm-f3h4ps",
+      "categories": [
+        "דגנים וקטניות",
+        "מוצרים לבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:49.863Z"
+    },
+    {
+      "id": "2c25d7af-ddd8-4efd-adb3-e3a3f59bf2e4",
+      "slug": "agvz-lvz-tbay-senfr9",
+      "name": "אגוז לוז טבעי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עיקר השומן באגוזי הלוז הוא שומן חד-בלתי רווי, זהו סוג השומן שצריך להוות את עיקר צריכת השומן שלנו. הם עשירים בוויטמינים, בברזל (עשרה אגוזי לוז מכילים ברזל כמו ירך עוף אם כי הספיגה טובה יותר מבשרים), במגנזיום ובפיטוסטרולים. גיוון התפריט באגוזי לוז מאפשר שמירה על בריאות הלב ועל רמות תקינות של שומנים בדם.\n\n \n\n \n\n \n\nאגוזי הלוז מכילים כמות גבוהה של סיבים תזונתיים ומספקים גם ויטמינים ומינרלים רבים, כגון ויטמין E, חומצות שומן אומגה-3, מגנזיום, נחושת וזרחן. יש לציין כי אגוזי לוז מכילים כמות גבוהה של שומן ולכן יש לצרוך אותם במידה מתאימה כדי לא לגרום לצבר שומן יתר ולשמור על תזונה מאוזנת ובריאה.",
+      "sku": "2003",
+      "brand": null,
+      "price": 99,
+      "base_price": 99,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581529429-058zah.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/agvz-lvz-tbay-senfr9",
+      "categories": [
+        "אגוזים וגרעינים טבעיים",
+        "אגוזים ופיצוחים"
+      ],
+      "updated_at": "2026-07-09T07:18:49.614Z"
+    },
+    {
+      "id": "2b219859-8610-4c27-a2b1-e98a47733f7e",
+      "slug": "atryvt-am-agbnyvt-taste-of-asia-lksf0d",
+      "name": "אטריות עם עגבניות - Taste of Asia",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל: 454 גרם",
+      "sku": "15176",
+      "brand": null,
+      "price": 12.9,
+      "base_price": 12.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581528462-duv8yp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/atryvt-am-agbnyvt-taste-of-asia-lksf0d",
+      "categories": [
+        "אטריות ודפי אורז",
+        "המטבח האסייתי"
+      ],
+      "updated_at": "2026-07-09T07:18:48.981Z"
+    },
+    {
+      "id": "4b2f0aaf-073c-4584-905c-1fa52b7d0856",
+      "slug": "bvtnym-amrykayym-e9o6ur",
+      "name": "בוטנים אמריקאיים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בוטן המכונה גם 'אגוז אדמה' הוא זרעו האכיל של הצמח ארכיס תת-קרקעי . למרות שמו, אגוז האדמה אינו אגוז על פי הגדרתו הבוטנית, אלא קטנית. מכאן שמו המקובל בערבית, \"פול סודאני\".",
+      "sku": "1017",
+      "brand": null,
+      "price": 29,
+      "base_price": 39,
+      "sale_price": 29,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/bvtnym-amrykayym-e9o6ur",
+      "categories": [
+        "מבצעי החודש",
+        "פיצוחים קלויים"
+      ],
+      "updated_at": "2026-07-09T07:18:48.735Z"
+    },
+    {
+      "id": "009f0a9d-b969-4370-a6f8-a1b7a5ee3eb7",
+      "slug": "pnyny-tpyvkh-gdvlym-taste-of-asia-l49h25",
+      "name": "פניני טפיוקה גדולים -Taste of Asia",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל 400 גרם.",
+      "sku": "f72591971944",
+      "brand": null,
+      "price": 12.9,
+      "base_price": 12.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581528380-737bw.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/pnyny-tpyvkh-gdvlym-taste-of-asia-l49h25",
+      "categories": [
+        "המטבח האסייתי",
+        "מוצרים לטיגון ולבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:48.717Z"
+    },
+    {
+      "id": "9394037f-9007-4c61-b446-318ba11cee8e",
+      "slug": "svbyn-shybvlt-shval-450-grm-krm-yfly07",
+      "name": "סובין שיבולת שועל 450 גרם - כרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "290eb5436d2e",
+      "brand": null,
+      "price": 22.9,
+      "base_price": 22.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581528376-ip9nlb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/svbyn-shybvlt-shval-450-grm-krm-yfly07",
+      "categories": [
+        "דגנים וקטניות",
+        "מוצרים לבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:48.678Z"
+    },
+    {
+      "id": "5daa0709-76db-4f80-9216-9bd3b45f487b",
+      "slug": "svkryvt-shchvr-lbn-btam-lykryts-lla-svkr-o8c78g",
+      "name": "סוכריות שחור לבן בטעם ליקריץ ללא סוכר",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "97a9ccf743ab",
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581528353-wilt7gq.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/svkryvt-shchvr-lbn-btam-lykryts-lla-svkr-o8c78g",
+      "categories": [
+        "המתוקים שלנו",
+        "סוכריות שונות"
+      ],
+      "updated_at": "2026-07-09T07:18:48.678Z"
+    },
+    {
+      "id": "edf8d83a-32a3-4583-bf3b-7043f8f24d02",
+      "slug": "mklvt-kvsmyn-trd-vbtsl-200-grm-g5xsuq",
+      "name": "מקלות כוסמין תרד ובצל - 200 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "טבעוני",
+      "sku": "5cc89873a09a-1-2-1-2-1",
+      "brand": null,
+      "price": 22.9,
+      "base_price": 22.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mklvt-kvsmyn-trd-vbtsl-200-grm-g5xsuq",
+      "categories": [
+        "לחמים ומאפים",
+        "עוגיות\\",
+        "קרקרים וגריסיני"
+      ],
+      "updated_at": "2026-07-09T07:18:48.675Z"
+    },
+    {
+      "id": "23453d77-5a2b-4308-b15b-1ab2416485c6",
+      "slug": "avgyvt-kvsmyn-shvkvld-tsyps-dny-vglyt-5xomqc",
+      "name": "עוגיות כוסמין שוקולד צ׳יפס - דני וגלית",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "89cb1a9fc89c-1-5-1-1-2",
+      "brand": null,
+      "price": 26.9,
+      "base_price": 26.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/avgyvt-kvsmyn-shvkvld-tsyps-dny-vglyt-5xomqc",
+      "categories": [
+        "לחמים ומאפים",
+        "עוגיות\\",
+        "קרקרים וגריסיני"
+      ],
+      "updated_at": "2026-07-09T07:18:48.565Z"
+    },
+    {
+      "id": "16284bef-a33d-42e4-8fd3-a65600ccd9a1",
+      "slug": "kpsvlvt-kph-lndvvr-drgh-6-41tqn7",
+      "name": "קפסולות קפה לנדוור (דרגה 6)",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ריסטרטו. קפסולות קפה אספרסו קלוי וטחון. מתאים לשימוש במכונת נספרסו.\n\n10 יח׳ של 5 גרם כל אחת.",
+      "sku": "16097",
+      "brand": null,
+      "price": 17.9,
+      "base_price": 17.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/kpsvlvt-kph-lndvvr-drgh-6-41tqn7",
+      "categories": [
+        "קפה וחליטות",
+        "קפה טחון וקפסולות"
+      ],
+      "updated_at": "2026-07-09T07:18:48.563Z"
+    },
+    {
+      "id": "e77c0b4f-2dbd-44fd-a1b0-307f095f6055",
+      "slug": "ptyty-spyrvlynh-100-grm-kvpsh-b1yttb",
+      "name": "פתיתי ספירולינה 100 גרם קופסה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "52e04c024dd3",
+      "brand": null,
+      "price": 49.9,
+      "base_price": 49.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/ptyty-spyrvlynh-100-grm-kvpsh-b1yttb",
+      "categories": [
+        "בריאות ואנרגיה",
+        "חטיפי בריאות ואנרגיה"
+      ],
+      "updated_at": "2026-07-09T07:18:48.563Z"
+    },
+    {
+      "id": "35579c54-0804-4e1e-a09c-379d6283f4b5",
+      "slug": "shvmshvm-lbn-350-grm-opu1py",
+      "name": "* שומשום לבן - 350 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "7caf61628ab9-1",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581528357-m4gknu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shvmshvm-lbn-350-grm-opu1py",
+      "categories": [
+        "צורן"
+      ],
+      "updated_at": "2026-07-09T07:18:48.561Z"
+    },
+    {
+      "id": "888dab74-34db-4a15-a98c-39896b443c12",
+      "slug": "lchm-bav-ban-lchm-mavdh-asyaty-msvrty-taste-of-asia-492nzg",
+      "name": "לחם באו באן - לחם מאודה אסיאתי מסורתי - Taste of Asia",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל 4 יחידות, סה״כ כ- 200 גרם",
+      "sku": "15220",
+      "brand": null,
+      "price": 12.9,
+      "base_price": 12.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581527081-q8rzt4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/lchm-bav-ban-lchm-mavdh-asyaty-msvrty-taste-of-asia-492nzg",
+      "categories": [
+        "גיוזה\\",
+        "דים סאם ובאן",
+        "המטבח האסייתי",
+        "לחמים ולחמניות",
+        "לחמים ומאפים",
+        "מוצרים ללא הנחה"
+      ],
+      "updated_at": "2026-07-09T07:18:47.880Z"
+    },
+    {
+      "id": "5e9463e3-882f-4697-bd61-28938893c572",
+      "slug": "svkryvt-shchvrvt-btam-lykryts-am-svkr-663abx",
+      "name": "סוכריות שחורות בטעם ליקריץ (עם סוכר)",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "c7f5b6cba1ee",
+      "brand": null,
+      "price": 55,
+      "base_price": 55,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581527070-zvxzc8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/svkryvt-shchvrvt-btam-lykryts-am-svkr-663abx",
+      "categories": [
+        "המתוקים שלנו",
+        "סוכריות שונות"
+      ],
+      "updated_at": "2026-07-09T07:18:47.627Z"
+    },
+    {
+      "id": "e39eba4d-8493-4d71-86a9-9eba63cb183a",
+      "slug": "myks-agvzym-tbayym-5a7yrx",
+      "name": "מיקס אגוזים טבעיים",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל אגוזי מלך, שקדים, אגוזי לוז, פיסטוק וקשיו",
+      "sku": "2014",
+      "brand": null,
+      "price": 92,
+      "base_price": 92,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/myks-agvzym-tbayym-5a7yrx",
+      "categories": [
+        "אגוזים וגרעינים טבעיים",
+        "אגוזים ופיצוחים"
+      ],
+      "updated_at": "2026-07-09T07:18:47.408Z"
+    },
+    {
+      "id": "e9d7cb11-bae4-4125-b47f-e9b50c9edd92",
+      "slug": "mshkh-svyh-btam-vnyl-1-lytr-alprv-jrxmhq",
+      "name": "משקה סויה בטעם וניל 1 ליטר - אלפרו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל 1 ליטר",
+      "sku": "13098-1",
+      "brand": null,
+      "price": 15.9,
+      "base_price": 15.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mshkh-svyh-btam-vnyl-1-lytr-alprv-jrxmhq",
+      "categories": [
+        "חלב צמחי"
+      ],
+      "updated_at": "2026-07-09T07:18:47.392Z"
+    },
+    {
+      "id": "78abf068-57e2-4803-8b38-9486742b9cf5",
+      "slug": "mrtsypn-ntv-lla-tvspt-svkr-75-grm-shkd-tbvr-7tzrx7",
+      "name": "מרציפן נטו ללא תוספת סוכר 75 גרם - שקד תבור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל 75 גרם",
+      "sku": "c4a322778803",
+      "brand": null,
+      "price": 22.9,
+      "base_price": 22.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mrtsypn-ntv-lla-tvspt-svkr-75-grm-shkd-tbvr-7tzrx7",
+      "categories": [
+        "המתוקים שלנו",
+        "מרציפנים"
+      ],
+      "updated_at": "2026-07-09T07:18:47.356Z"
+    },
+    {
+      "id": "c1249501-2bec-451f-b952-8c14f953fee3",
+      "slug": "shmn-shvmshvm-bkbyshh-krh-250-ml-haydn-havrgny-joi1qd",
+      "name": "שמן שומשום בכבישה קרה 250 מ״ל - העידן האורגני",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "8125",
+      "brand": null,
+      "price": 29.9,
+      "base_price": 29.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581527072-mbet5e.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shmn-shvmshvm-bkbyshh-krh-250-ml-haydn-havrgny-joi1qd",
+      "categories": [
+        "מוצרים לבישול",
+        "שמן זית ושמנים מיוחדים"
+      ],
+      "updated_at": "2026-07-09T07:18:47.299Z"
+    },
+    {
+      "id": "e1aae9bf-c100-4d4e-842b-8ad53d442bb9",
+      "slug": "chtyp-chlbvn-btam-vnylh-krants-avl-ayn-60-grm-tt6f1e",
+      "name": "חטיף חלבון בטעם ונילה קראנץ' אול אין- 60 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ללא תוספת סוכר \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n מכיל אלרגנים: גלוטן, חלב ומוצריו (כולל לקטוז), סויה \n\n עלול להכיל אלרגנים : ביצים, בוטנים, אגוזים, שומשום \n\n כשרות: בהשגחת הרבנות הראשית להולנד ובאישור הרבנות הראשית לישראל \n\n כשר חלבי לאוכלי אבקת חלב נוכרי \n\n אזהרה: צריכה מופרזת עלולה לגרום לפעילות מעיים מוגברת",
+      "sku": "12128-1-1-1-1-1-1-1-2",
+      "brand": null,
+      "price": 16.9,
+      "base_price": 16.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chtyp-chlbvn-btam-vnylh-krants-avl-ayn-60-grm-tt6f1e",
+      "categories": [
+        "בריאות ואנרגיה",
+        "חטיפי בריאות ואנרגיה"
+      ],
+      "updated_at": "2026-07-09T07:18:47.202Z"
+    },
+    {
+      "id": "821b3136-0135-4b57-93eb-20348740b0b4",
+      "slug": "shkd-mtsvph-shvkvld-chlb-m0jhwd",
+      "name": "שקד מצופה שוקולד חלב",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "10101",
+      "brand": null,
+      "price": 110,
+      "base_price": 110,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shkd-mtsvph-shvkvld-chlb-m0jhwd",
+      "categories": [
+        "אגוזים ופיצוחים",
+        "פיצוחים מיוחדים"
+      ],
+      "updated_at": "2026-07-09T07:18:47.199Z"
+    },
+    {
+      "id": "d73cadac-ac6d-488e-ae01-c2a22ed89e2c",
+      "slug": "avgyvt-btam-kpvtsynv-lla-tvspt-svkr-200-grm-aviva-yqofpt",
+      "name": "עוגיות בטעם קפוצ'ינו ללא תוספת סוכר 200 גרם - Aviva",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 16.9,
+      "base_price": 16.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/avgyvt-btam-kpvtsynv-lla-tvspt-svkr-200-grm-aviva-yqofpt",
+      "categories": [
+        "לחמים ומאפים",
+        "עוגיות\\",
+        "קרקרים וגריסיני"
+      ],
+      "updated_at": "2026-07-09T07:18:47.197Z"
+    },
+    {
+      "id": "01bfbce5-2c7b-4f0a-b4aa-14305681c4aa",
+      "slug": "mshkh-tpvch-anns-250-ml-grvpr-hgwupo",
+      "name": "משקה תפוח אננס 250 מ\"ל-גרופר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "רכיבים: \n\n מיץ תפוחים אורגני (70%), מיץ אננס אורגני (30%)",
+      "sku": "18103-1-1-1-1-1-1-1-1",
+      "brand": null,
+      "price": 11.9,
+      "base_price": 11.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mshkh-tpvch-anns-250-ml-grvpr-hgwupo",
+      "categories": [
+        "בריאות ואנרגיה",
+        "דף הבית - מוצרים חדשים",
+        "משקאות פרי"
+      ],
+      "updated_at": "2026-07-09T07:18:47.189Z"
+    },
+    {
+      "id": "7578b5b6-e11b-49a3-ab72-fb063989b501",
+      "slug": "mshkh-tpvch-tpvz-gzr-250-ml-grvpr-kboyqn",
+      "name": "משקה תפוח תפוז גזר 250 מ\"ל-גרופר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "רכיבים: \n\n מיץ תפוחים אורגני (50%), מיץ תפוז אורגני (30%), גזר אורגני (20%)",
+      "sku": "18103-1-1-1-1-1-1-1",
+      "brand": null,
+      "price": 11.9,
+      "base_price": 11.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581526052-su8my7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mshkh-tpvch-tpvz-gzr-250-ml-grvpr-kboyqn",
+      "categories": [
+        "בריאות ואנרגיה",
+        "דף הבית - מוצרים חדשים",
+        "משקאות פרי"
+      ],
+      "updated_at": "2026-07-09T07:18:46.551Z"
+    },
+    {
+      "id": "24d21752-46ae-4932-8d04-d6a89b22e9f1",
+      "slug": "rtsvavt-tpvz-msvkrvt-150-grm-jqckv3",
+      "name": "רצועות תפוז מסוכרות 150 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "3040",
+      "brand": null,
+      "price": 11.9,
+      "base_price": 11.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581525818-4efp7.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/rtsvavt-tpvz-msvkrvt-150-grm-jqckv3",
+      "categories": [
+        "פירות יבשים",
+        "פירות יבשים עם סוכר"
+      ],
+      "updated_at": "2026-07-09T07:18:46.448Z"
+    },
+    {
+      "id": "9c9547a5-4e5c-4ed6-ba68-11a718de3448",
+      "slug": "zray-tsyh-350-grm-74pxzh",
+      "name": "זרעי צ׳יה - 350 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "2.90 ש״ח ל-100 גרם (במבצע המחיר שונה).\n\nנחשב לסופר-פוד הטוב בעולם!\n\nניתן לאכול את זרעי הצ׳יה באופן גולמי וטבעי, כאשר הם מתפוצצים כמו סוכריות קופצות בפה, אך מכיוון שאין להם טעם דומיננטי, מלבד ארומה אגוזית קלה, ניתן להוסיף אותם כמעט לכל מאכל, מתוק או מלוח, ללא שום בעיה. בצורתם היבשה ניתן להוסיף אותם שלמים או טחונים למאכלים קרים כמו דגני בוקר עם יוגורט, סלט ירקות, תבשילי אורז, מאפים ועוד. בצורתם הרטובה מתנפחים הזרעים והנוזל הופך צמיגי וסמיך ובעת ערבובם עם דגנים מבושלים, מרקים או קדרות הם משדרגים את המאכלים בצורה חלומית.",
+      "sku": null,
+      "brand": null,
+      "price": 11.9,
+      "base_price": 11.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581525847-z06xj5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/zray-tsyh-350-grm-74pxzh",
+      "categories": [
+        "דגנים וקטניות",
+        "מוצרים לבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:46.351Z"
+    },
+    {
+      "id": "6735a63b-1c81-406d-a806-49c10697f485",
+      "slug": "shvkvld-lbn-28-mtbavt-400-grm-klybv-9yeazs",
+      "name": "שוקולד לבן 28% מטבעות 400 גרם -קליבו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שוקולד לבן 400 גרם 28% ללא גלוטן",
+      "sku": "94556f118cef-2-1-1-1-2",
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581526052-evkatj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shvkvld-lbn-28-mtbavt-400-grm-klybv-9yeazs",
+      "categories": [
+        "דף הבית - מוצרים חדשים",
+        "המתוקים שלנו",
+        "לחמים ומאפים",
+        "מוצרי אפייה",
+        "שוקולדים"
+      ],
+      "updated_at": "2026-07-09T07:18:46.304Z"
+    },
+    {
+      "id": "4c5043b3-8992-485b-ad5f-31982dcdd13f",
+      "slug": "chvvyag-lkph-tgr0kf",
+      "name": "חוויאג׳ לקפה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "תערובת תבלינים המיועדת לתיבול קפה שחור, קפה קישר (משקה תימני מבוסס על קליפות הקפה) או תה. מקובל לערבב את החוויאג' עם אבקת הקפה לפני ההכנה. הכמות המקובלת הינה כ 5% חוויאג' יחסית לקפה.תערובת מסורתית מכילה: הל, קינמון, ציפורן, זנגביל, אגוז מוסקט ולעיתים קימל.",
+      "sku": "5036",
+      "brand": null,
+      "price": 75,
+      "base_price": 75,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581525898-4cndpvb.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chvvyag-lkph-tgr0kf",
+      "categories": [
+        "תבלינים ותערובות",
+        "תבלינים טחונים"
+      ],
+      "updated_at": "2026-07-09T07:18:46.246Z"
+    },
+    {
+      "id": "af4c9d6c-ed28-499b-a037-ff6e09ae7d4b",
+      "slug": "nvzl-agvzy-kvkvs-lla-glvtn-taste-of-asia-w7pu7c",
+      "name": "נוזל אגוזי קוקוס ללא גלוטן - Taste Of Asia",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל: 400 מ״ל",
+      "sku": null,
+      "brand": null,
+      "price": 8.9,
+      "base_price": 8.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/nvzl-agvzy-kvkvs-lla-glvtn-taste-of-asia-w7pu7c",
+      "categories": [
+        "דף הבית - מוצרים חדשים",
+        "המטבח האסייתי",
+        "מוצרים לטיגון ולבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:46.136Z"
+    },
+    {
+      "id": "fc5191fa-31fd-4bb7-8cda-f04ae9af1141",
+      "slug": "svyh-arvkh-klvyh-9kgl9r",
+      "name": "סויה ארוכה קלויה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "1041",
+      "brand": null,
+      "price": 79,
+      "base_price": 79,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581525826-urkabn.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/svyh-arvkh-klvyh-9kgl9r",
+      "categories": [
+        "פיצוחים מיוחדים"
+      ],
+      "updated_at": "2026-07-09T07:18:46.133Z"
+    },
+    {
+      "id": "fad5a065-29e5-45eb-b2f9-5571c45f4c2b",
+      "slug": "shavayt-amrykayt-500-grm-h29v7l",
+      "name": "שעועית אמריקאית - 500 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "1.69 ש״ח ל-100 גרם",
+      "sku": "a193491afd29",
+      "brand": null,
+      "price": 8,
+      "base_price": 8,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shavayt-amrykayt-500-grm-h29v7l",
+      "categories": [
+        "דגנים וקטניות",
+        "מוצרים לבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:45.961Z"
+    },
+    {
+      "id": "1cbf115a-8cbf-4af3-a9c4-7c48546fd19a",
+      "slug": "rybt-btsl-ats-shdh-319p41",
+      "name": "ריבת בצל - עץ שדה",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 23.9,
+      "base_price": 23.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/rybt-btsl-ats-shdh-319p41",
+      "categories": [
+        "דף הבית - מוצרים חדשים",
+        "מוצרים לבישול",
+        "ממרחים ומטבלים",
+        "ממרחים ורטבים"
+      ],
+      "updated_at": "2026-07-09T07:18:45.961Z"
+    },
+    {
+      "id": "056eafac-4313-4c57-a968-4b7199691edc",
+      "slug": "mkl-vnyl-avrgny-bvdd-whx50r",
+      "name": "מקל וניל אורגני - בודד",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "11214",
+      "brand": null,
+      "price": 15.9,
+      "base_price": 15.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mkl-vnyl-avrgny-bvdd-whx50r",
+      "categories": [
+        "תבלינים ותערובות",
+        "תבלינים שלמים"
+      ],
+      "updated_at": "2026-07-09T07:18:45.960Z"
+    },
+    {
+      "id": "93bba1e1-f899-4dfd-8698-c13affb08a1e",
+      "slug": "krm-kvkvs-20-22-mzrch-marb-2-b-20-wdhqhb",
+      "name": "קרם קוקוס 20%-22% - מזרח מערב- 2 ב-20",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל: 400 מ״ל",
+      "sku": "668183e7b657",
+      "brand": null,
+      "price": 10.9,
+      "base_price": 10.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581524422-p6fbp.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/krm-kvkvs-20-22-mzrch-marb-2-b-20-wdhqhb",
+      "categories": [
+        "המטבח האסייתי",
+        "מבצע 2 יח' ב-15 ש\"ח Bar Bary",
+        "מוצרים לטיגון ולבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:45.302Z"
+    },
+    {
+      "id": "1cd88a27-e4ad-43ff-ae19-6b5b3cc5a04b",
+      "slug": "shmn-svyh-mtvbl-btsyly-mzrch-marb-kd3f3v",
+      "name": "שמן סויה מתובל בצ׳ילי - מזרח מערב",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל: 185 מ״ל",
+      "sku": "249ba984162e",
+      "brand": null,
+      "price": 15.9,
+      "base_price": 15.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581524422-9yp11g.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shmn-svyh-mtvbl-btsyly-mzrch-marb-kd3f3v",
+      "categories": [
+        "המטבח האסייתי",
+        "מוצרים לטיגון ולבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:45.057Z"
+    },
+    {
+      "id": "7e1a5ccd-d9b5-443c-a29c-e3a1308376b1",
+      "slug": "mmrch-shkd-mla-300-grm-shkd-tbvr-9yq3bh",
+      "name": "ממרח שקד מלא 300 גרם - שקד תבור",
+      "name_translations": {},
+      "description": "",
+      "short_description": "100% שקדים מלאים ללא תוספת סוכר. ניתן להוסיף לטחינה לקבלת טעם עשיר יותר, מתאים למריחה על לחם עם דבש, נהדר על פנקייק עם סילאן ותמרים, מתאים לשלב ברטבים לסלט וביוגורט או גרנולה. תכולה: 300 גרם",
+      "sku": "11117",
+      "brand": null,
+      "price": 31.9,
+      "base_price": 31.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581524553-u5u8i.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mmrch-shkd-mla-300-grm-shkd-tbvr-9yq3bh",
+      "categories": [
+        "בריאות ואנרגיה",
+        "בריאות לילדים",
+        "מוצרים לבישול",
+        "ממרחים ומטבלים",
+        "ממרחים ורטבים"
+      ],
+      "updated_at": "2026-07-09T07:18:44.943Z"
+    },
+    {
+      "id": "7a7ab32f-2185-4b66-adc2-37585f34235f",
+      "slug": "mkdmyh-klvy-axpwfp",
+      "name": "מקדמיה קלוי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אגוזי מקדמיה עשירים באשלגן, סידן ומגנזיום. ההרכב העיקר של אגוזי מקדמיה הינו שומן.",
+      "sku": "1006",
+      "brand": null,
+      "price": 170,
+      "base_price": 170,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581524462-akw.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mkdmyh-klvy-axpwfp",
+      "categories": [
+        "פיצוחים קלויים"
+      ],
+      "updated_at": "2026-07-09T07:18:44.915Z"
+    },
+    {
+      "id": "b6365c4a-38f0-4c7a-bb40-2810fc11c9a0",
+      "slug": "ktsch-rwflk3",
+      "name": "קצח",
+      "name_translations": {},
+      "description": "",
+      "short_description": "הקצח, מכונה לפעמים כמון שחור או שומשום שחור, למרות שאינו קשור אליהם. מתאים לפיזור על לחמים, גבינות, מאכלים הודיים ועל קישואים מבושלים. מומלץ לקלות את הזרעים במחבת יבשה או במעט שמן להעשרת הטעם.",
+      "sku": "5117",
+      "brand": null,
+      "price": 49,
+      "base_price": 49,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581524397-j9jbu9.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/ktsch-rwflk3",
+      "categories": [
+        "תבלינים ותערובות",
+        "תבלינים טחונים"
+      ],
+      "updated_at": "2026-07-09T07:18:44.889Z"
+    },
+    {
+      "id": "779ca543-170a-42cb-8146-28d2b211feef",
+      "slug": "pkan-btsypvy-byyglh-200-grm-bmycqw",
+      "name": "פקאן בציפוי בייגלה-200 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "1048",
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/pkan-btsypvy-byyglh-200-grm-bmycqw",
+      "categories": [
+        "אגוזים ופיצוחים",
+        "פיצוחים מיוחדים"
+      ],
+      "updated_at": "2026-07-09T07:18:44.889Z"
+    },
+    {
+      "id": "3382f022-c98a-4996-97e5-96996e83eaec",
+      "slug": "chlytt-tsmchym-gyngr-vdbsh-pompadour-93ca0j",
+      "name": "חליטת צמחים ג'ינג'ר ודבש - Pompadour",
+      "name_translations": {},
+      "description": "",
+      "short_description": "רכיבים: ג'ינג'ר , תפוח עץ, קליפות תפוז, חומרי טעם וריח, גרגירי דבש",
+      "sku": "16167-1",
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chlytt-tsmchym-gyngr-vdbsh-pompadour-93ca0j",
+      "categories": [
+        "חליטות תה",
+        "קפה וחליטות"
+      ],
+      "updated_at": "2026-07-09T07:18:44.776Z"
+    },
+    {
+      "id": "7854aef7-e3ce-4227-b404-5c50c7b7d23a",
+      "slug": "pprykh-chryph-bshmn-d37iip",
+      "name": "פפריקה חריפה בשמן",
+      "name_translations": {},
+      "description": "",
+      "short_description": "\"פפריקה מרוקאית\" - הפלפלים נטחנים במלואם ומתובלים בשמן.",
+      "sku": "5101",
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/pprykh-chryph-bshmn-d37iip",
+      "categories": [
+        "תבלינים ותערובות",
+        "תבלינים טחונים"
+      ],
+      "updated_at": "2026-07-09T07:18:44.772Z"
+    },
+    {
+      "id": "825a9c83-b544-44f7-b19f-b7a960ee5334",
+      "slug": "abkt-mmtyk-svvytangv-400-grm-sweetango-mquatf",
+      "name": "אבקת ממתיק סוויטאנגו 400 גרם - Sweetango",
+      "name_translations": {},
+      "description": "",
+      "short_description": "לא תאמינו שזה לא אבקת סוכר! עשוי מאריתריטול, סטיביול וגליקוזיד המופק מצמח הסטיביה. תכולה 100 גרם.\n\nהסטיביה הינו צמח תבלין נטול קלוריות המכיל חומר בשם סטיביול גליקוזיד. הצמח הגדל בעיקר בדרום אמריקה שם מכונה עשב מתוק ומשמש כבר מאות בשנים לטיפול בבעיות בריאות שונות. הסטיביה מתוק מאוד, בערך פי 10-15 מסוכר, אבקת הסטיביוזיד המופקת מהצמח מתוקה בערך פי 200. אך היא נטולת קלוריות ולא נחשבת לפחמימה.\n\nהסטיביה היא טבעית לחלוטין ואינה משלבת תהליך כימי בהפקתה כמו הרבה תחליפי סוכר אחרים, הא בטוחה לשימוש בדיאטות שונות ובמיוחד עבור חולי סכרת. הממתיק הזה יעיל בלא מעט תהליכים פיזיים, הוא מסייע בהפחתת לחץ הדם ובאיזון רמת הסוכר בדם, ומסייע למערכת העיכול בפעילותה ובהקטנת חומציות בקיבה. כמו כן, בניגוד לסוכרים אחרים, הוא נמצא יעיל בשמירה על בריאות השיניים, כאשר שימוש בו מקטין את הצטברות החיידקים ומניעת עששת ומחלות חניכיים למיניהם. הסטיביה נמכרת בכמה אופנים, כאבקת ממתיק, גרגירים קטנים או כנוזל ממתיק.",
+      "sku": "6148",
+      "brand": null,
+      "price": 45.9,
+      "base_price": 45.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/abkt-mmtyk-svvytangv-400-grm-sweetango-mquatf",
+      "categories": [
+        "בריאות ואנרגיה",
+        "לחמים ומאפים",
+        "מוצרי אפייה",
+        "סוכר ותחליפיו"
+      ],
+      "updated_at": "2026-07-09T07:18:44.542Z"
+    },
+    {
+      "id": "6e7ddb38-0046-4077-88b0-d0ab04f572ab",
+      "slug": "mmrch-tchynh-am-sylan-achvh-cu54fz",
+      "name": "ממרח טחינה עם סילאן - אחוה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עשוי משומשום מלא. מכיל 400 גרם",
+      "sku": "11113",
+      "brand": null,
+      "price": 14.9,
+      "base_price": 14.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mmrch-tchynh-am-sylan-achvh-cu54fz",
+      "categories": [
+        "מוצרים לבישול",
+        "ממרחים ומטבלים",
+        "ממרחים ורטבים"
+      ],
+      "updated_at": "2026-07-09T07:18:44.540Z"
+    },
+    {
+      "id": "b0812f7e-9d9b-40c9-8675-4209c4bccde4",
+      "slug": "agvz-mlk-tbay-prymyvm-u2gryo",
+      "name": "אגוז מלך טבעי פרימיום",
+      "name_translations": {},
+      "description": "",
+      "short_description": "אצלנו תמצאו אגוזי מלך המגיעים אלינו ישירות מצ׳ילה.\n\nהאגוזים הצ׳יליאנים מובחרים במיוחד, הם איכותיים, בהירים, טריים ומכילים מעל 90% חצאים - כלומר הם חצויים כמעט בשלמות ומכילים פחות פירורים.\n\nהם נקטפים מלב העץ ולכן הם יותר בשרניים, פחות שומניים וללא טעם הלוואי שנוצר כתוצאה מאגוזים שבורים ומתפוררים.\n\nאגוז מלך הוא אחד מהמזונות העתיקים והבריאים בעולם. אל תחששו מהקלוריות - תוספת של שבעה אגוזי מלך לתפריט היומי תעניק לגופכם נוגדי חמצון יעילים, תסייע להפחית את רמת הכולסטרול הרע בדם, תקטין הסיכון לחלות במחלות לב ובסוכרת ותתרום לתחושת שובע שתמנע עלייה מסוכנת במשקל. חשוב לציין שלמרות ההנחה הרווחת שאגוזי מלך משמינים, בכל המחקרים שבדקו את הקשר בין אגוזי מלך להשמנה, לא נמצא קשר בין המשתנים. לפיכך, תזונה מאוזנת של אגוזי מלך לא גורמת לעלייה במשקל, אלא תורמת לשיפור בריאות הגוף.\n\n \n\n \n\n \n\nאגוזי המלך מכילים גם כמות גבוהה של סיבים תזונתיים ומספקים גם ויטמינים ומינרלים רבים, כגון ויטמין E, חומצות שומן אומגה-3, מגנזיום, נחושת וזרחן. יש לציין כי אגוזי המלך מכילים כמות גבוהה של שומן ולכן יש לצרוך אותם במידה מתאימה כדי לא לגרום לצבר שומן יתר ולשמור על תזונה מאוזנת ובריאה.",
+      "sku": "2007",
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581523319-uwzvxe.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/agvz-mlk-tbay-prymyvm-u2gryo",
+      "categories": [
+        "אגוזים וגרעינים טבעיים",
+        "אגוזים ופיצוחים",
+        "דף הבית - הנמכרים ביותר"
+      ],
+      "updated_at": "2026-07-09T07:18:43.870Z"
+    },
+    {
+      "id": "f4c03d5a-a277-4c4d-8884-0e9820b43f58",
+      "slug": "avgyvt-kvsmyn-pyrvt-yar-dny-vglyt-lijfe9",
+      "name": "עוגיות כוסמין פירות יער - דני וגלית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ללא תוספת סוכר לבן מעובד. ללא לקטוז. 100% כוסמין מלא. כ- 230 גרם.",
+      "sku": "ed072eafa5e1",
+      "brand": null,
+      "price": 26.9,
+      "base_price": 26.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/avgyvt-kvsmyn-pyrvt-yar-dny-vglyt-lijfe9",
+      "categories": [
+        "לחמים ומאפים",
+        "עוגיות\\",
+        "קרקרים וגריסיני"
+      ],
+      "updated_at": "2026-07-09T07:18:43.815Z"
+    },
+    {
+      "id": "3c8980e0-0103-4c97-9b05-80b899b67958",
+      "slug": "armvnym-shlmym-bvakvm-hkrm-2-ych-b-10-shch-80gvvl",
+      "name": "ערמונים שלמים בואקום הכרם 2 יח׳ ב- 10 ש״ח",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ערמונים הם פירותיו של עץ הערמון, ובתוכם קיימים 4 סוגים עיקריים: אירופיים, אמריקאים, יפנים וסינים, כאשר הזן האירופאי הוא המתוק ביותר בין הארבעה. על פרי עץ הערמון מגנה קליפה חומה, קשיחה ומבריקה, והוא עשיר בסיבים תזונתיים מסיסים, ויטמין-B, חומצות אמינו וכן בסידן ואשלגן. ערמונים נחשבים כבעלי ערך גליקמי נמוך, כלומר הם גורמים לרמת הסוכר בדם לעלות לאט ומסייעים למניעת סכרת.",
+      "sku": "1043",
+      "brand": null,
+      "price": 5.9,
+      "base_price": 5.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581523259-sno3d8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/armvnym-shlmym-bvakvm-hkrm-2-ych-b-10-shch-80gvvl",
+      "categories": [
+        "מבצע ערמונים 2 ב- 10 ש״ח",
+        "מבצעים קבועים",
+        "פיצוחים קלויים"
+      ],
+      "updated_at": "2026-07-09T07:18:43.763Z"
+    },
+    {
+      "id": "4faec8cc-061c-4f91-acb1-460d29fcf31f",
+      "slug": "byp-grky-klasy-kytv-o9lf23",
+      "name": "ביף ג'רקי קלאסי -קיטו",
+      "name_translations": {},
+      "description": "",
+      "short_description": "החטיף הפופולארי בעולם מיוצר עכשיו בישראל! \n\n ביף ג'רקי של קיטו - תוצרת בוטיק כחול לבן מבשר כשר ואיכותי בייצור קפדני ולא מתפשר. \n\n נתחי פרימיום שנבחרו במיוחד ללא שומן, מותאמים לביף ג'רקי, במגוון טעמים שיגרמו לכם להתאהב. \n\n הדיבור החדש לאוהבי הבשר! \n\nהביף ג'רקי הוא סיבי וחווית הלעיסה היא ארוכה וקשה יותר\n\n \n\nמכיל: סויה, פלפל שחור, חרדל, כוסברה, צילי, שום, דבש וחומרי טעם וריח (ערכים תזונתיים בתמונות המוצר)\n\nמגיע באריזה של 60 גרם\n\nתוקף מוצר: 120 יום, 14 יום מפתיחת האריזה",
+      "sku": "12102-1-1-1-1",
+      "brand": null,
+      "price": 39.9,
+      "base_price": 39.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/byp-grky-klasy-kytv-o9lf23",
+      "categories": [
+        "דף הבית - מוצרים חדשים",
+        "מבצע ביף ג'רקי 2 ב-70 ש״ח",
+        "מוצרים לבישול",
+        "ממרחים ורטבים"
+      ],
+      "updated_at": "2026-07-09T07:18:43.546Z"
+    },
+    {
+      "id": "88c2f8c3-049f-4dda-9576-58ba5be3d6f0",
+      "slug": "100-adshym-advmvt-avrgnyvt-btsvrt-aytryvt-felicia-qaxb3m",
+      "name": "100% עדשים אדומות אורגניות בצורת איטריות Felicia",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "14032",
+      "brand": null,
+      "price": 17.9,
+      "base_price": 17.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581523244-4rlvyf.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/100-adshym-advmvt-avrgnyvt-btsvrt-aytryvt-felicia-qaxb3m",
+      "categories": [
+        "לחמים ומאפים",
+        "פסטה יבשה"
+      ],
+      "updated_at": "2026-07-09T07:18:43.487Z"
+    },
+    {
+      "id": "57cc81a1-3617-40d5-91e2-05e2d5b103e9",
+      "slug": "chmat-pystvk-200-grm-krm-hcsi2r",
+      "name": "חמאת פיסטוק 200 גרם - כרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "11034",
+      "brand": null,
+      "price": 43.9,
+      "base_price": 43.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581523243-r3ace2.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chmat-pystvk-200-grm-krm-hcsi2r",
+      "categories": [
+        "מוצרים לבישול",
+        "ממרחים ומטבלים",
+        "ממרחים ורטבים"
+      ],
+      "updated_at": "2026-07-09T07:18:43.438Z"
+    },
+    {
+      "id": "c45f4153-a499-4229-bffc-753501220aac",
+      "slug": "mchyt-tybvl-pad-tay-taste-of-asia-g4irhv",
+      "name": "מחית תיבול פאד תאי - Taste of Asia",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "15194",
+      "brand": null,
+      "price": 7.9,
+      "base_price": 7.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mchyt-tybvl-pad-tay-taste-of-asia-g4irhv",
+      "categories": [
+        "המטבח האסייתי",
+        "רטבים וממרחים אסיתיים"
+      ],
+      "updated_at": "2026-07-09T07:18:43.438Z"
+    },
+    {
+      "id": "73f29f6e-6295-410d-a8f2-650e79371b3e",
+      "slug": "kvbyvt-agbnyvt-mkvlpvt-bmyts-700-grm-kchvl-mutti-tclnyb",
+      "name": "קוביות עגבניות מקולפות במיץ 700 גרם (כחול) - Mutti",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עגבניות מרוסקות רגילות, עשוי מ- 100% עגבניות בעלות מרקם בשרני, ארומתי, וטעמן עדין כשל עגבנייה טרייה.",
+      "sku": "14045",
+      "brand": null,
+      "price": 15.9,
+      "base_price": 15.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/kvbyvt-agbnyvt-mkvlpvt-bmyts-700-grm-kchvl-mutti-tclnyb",
+      "categories": [
+        "מוצרים לבישול",
+        "רסק ושימורי עגבניות"
+      ],
+      "updated_at": "2026-07-09T07:18:43.434Z"
+    },
+    {
+      "id": "00de643b-9f75-4578-9f5c-368693964348",
+      "slug": "dvbdbny-amrnh-425-grm-almndvs-nzd0m8",
+      "name": "דובדבני אמרנה 425 גרם - אלמנדוס",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "b072b09ce4cc",
+      "brand": null,
+      "price": 33.9,
+      "base_price": 33.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/dvbdbny-amrnh-425-grm-almndvs-nzd0m8",
+      "categories": [
+        "לחמים ומאפים",
+        "מוצרי אפייה"
+      ],
+      "updated_at": "2026-07-09T07:18:43.383Z"
+    },
+    {
+      "id": "1cd64c57-1e6a-4124-a3a3-be31b2257483",
+      "slug": "tvrtyyh-myny-mkmch-chyth-bpnzlw",
+      "name": "טורטייה מיני מקמח חיטה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קוטר: 20 ס״מ , מכיל 540 גרם",
+      "sku": "7186",
+      "brand": null,
+      "price": 6.9,
+      "base_price": 6.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/tvrtyyh-myny-mkmch-chyth-bpnzlw",
+      "categories": [
+        "לחמים ומאפים",
+        "פריכיות וטורטיות"
+      ],
+      "updated_at": "2026-07-09T07:18:43.244Z"
+    },
+    {
+      "id": "effd8d11-b084-4813-885f-d725cf17e079",
+      "slug": "lchm-mchmtst-kvsmyn-am-ktsch-mbtsa-2-ych-b-34-shch-pnb57l",
+      "name": "לחם מחמצת כוסמין עם קצח- מבצע 2 יח' ב-34 ש\"ח",
+      "name_translations": {},
+      "description": "",
+      "short_description": "לחם טרי שנאפה הבוקר. מגיע פרוס בצלופן.",
+      "sku": "7021",
+      "brand": null,
+      "price": 19.9,
+      "base_price": 19.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581521653-k2b7u4.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/lchm-mchmtst-kvsmyn-am-ktsch-mbtsa-2-ych-b-34-shch-pnb57l",
+      "categories": [
+        "לחמים ולחמניות",
+        "לחמים ומאפים",
+        "מבצע לחם 2 יח׳ ב- 34 ש״ח",
+        "מוצרים ללא הנחה"
+      ],
+      "updated_at": "2026-07-09T07:18:42.539Z"
+    },
+    {
+      "id": "664b0655-d4eb-45f0-ac94-603663df022e",
+      "slug": "chlbh-pystvk-lla-svkr-afpkck",
+      "name": "חלבה פיסטוק ללא סוכר",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "34f5dc144f5c",
+      "brand": null,
+      "price": 85,
+      "base_price": 85,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chlbh-pystvk-lla-svkr-afpkck",
+      "categories": [
+        "המתוקים שלנו",
+        "חלבה"
+      ],
+      "updated_at": "2026-07-09T07:18:42.423Z"
+    },
+    {
+      "id": "16b24712-5192-48a9-98e6-d066cd5e12c4",
+      "slug": "kshyv-klvy-btsypvy-tyrs-150-grm-9s2d9t",
+      "name": "קשיו קלוי בציפוי תירס -150 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "פיקנטי",
+      "sku": "1020-1",
+      "brand": null,
+      "price": 16.5,
+      "base_price": 16.5,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581521517-3eyl7j.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/kshyv-klvy-btsypvy-tyrs-150-grm-9s2d9t",
+      "categories": [
+        "דף הבית - מוצרים חדשים",
+        "פיצוחים מיוחדים",
+        "פיצוחים קלויים"
+      ],
+      "updated_at": "2026-07-09T07:18:42.180Z"
+    },
+    {
+      "id": "32fc615b-5ae9-4de4-b1ab-fc915b7cbde2",
+      "slug": "tmtsyt-btam-zvhr-20-ml-mshkd-a7h55i",
+      "name": "תמצית בטעם זוהר 20 מ\"ל - משקד",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 11.9,
+      "base_price": 11.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/tmtsyt-btam-zvhr-20-ml-mshkd-a7h55i",
+      "categories": [
+        "כללי",
+        "לחמים ומאפים",
+        "מוצרי אפייה"
+      ],
+      "updated_at": "2026-07-09T07:18:41.961Z"
+    },
+    {
+      "id": "d817f0ad-812b-4d19-9ad6-374572d9d139",
+      "slug": "shmn-kvkvs-avrgny-950-ml-hkrm-iu3nlf",
+      "name": "שמן קוקוס אורגני 950 מ\"ל - הכרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בכבישה קרה, לא מזוכך.",
+      "sku": "8064",
+      "brand": null,
+      "price": 68.9,
+      "base_price": 68.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shmn-kvkvs-avrgny-950-ml-hkrm-iu3nlf",
+      "categories": [
+        "בריאות ואנרגיה",
+        "מוצרים לבישול",
+        "שמן זית ושמנים מיוחדים"
+      ],
+      "updated_at": "2026-07-09T07:18:41.960Z"
+    },
+    {
+      "id": "8cfefbe1-6322-458a-a768-28d2744056fa",
+      "slug": "shkd-mvlbn-shlm-p29v97",
+      "name": "שקד מולבן שלם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "שקדים עשירים בשומן בלתי רווי החשוב לפעילות הלב ובסידן: בעשרים יחידות יש סידן כמו בשליש כוס חלב. בנוסף, הם מכילים ויטמין E , ברזל, אבץ, סיבים תזונתיים ופיטוסטרולים - חומרים צמחיים דמויי כולסטרול אשר מסייעים בהורדת רמות הכולסטרול בדם. צריכת שקדים כחלק מתפריט מאוזן יכולה לסייע בהגנה מפני מחלות לב וכלי דם והם נחשבים ברפואה העממית כמקלים על צרבת. השקדים משמשים כתוספת למאכלים רבים, מבשרים ועד אורז, סלטים ועוגות. מהשקדים המולבנים מכינים מרציפן או משקה שקדי - רוזטה.",
+      "sku": "2035",
+      "brand": null,
+      "price": 79,
+      "base_price": 79,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581521517-fld3pv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shkd-mvlbn-shlm-p29v97",
+      "categories": [
+        "אגוזים וגרעינים טבעיים",
+        "אגוזים ופיצוחים"
+      ],
+      "updated_at": "2026-07-09T07:18:41.940Z"
+    },
+    {
+      "id": "dac78dd8-1424-49e1-99c1-0deac6b94368",
+      "slug": "mrtsypn-79-mtsvph-shvkvld-mryr-21-50-grm-byr1wc",
+      "name": "מרציפן 79% מצופה שוקולד מריר (21%) - 50 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "5bcb37d20f40",
+      "brand": null,
+      "price": 10.9,
+      "base_price": 10.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mrtsypn-79-mtsvph-shvkvld-mryr-21-50-grm-byr1wc",
+      "categories": [
+        "המתוקים שלנו",
+        "מרציפנים"
+      ],
+      "updated_at": "2026-07-09T07:18:41.910Z"
+    },
+    {
+      "id": "d299f4d6-15a1-4e2a-beba-98b19505712c",
+      "slug": "kyygvn-3notes",
+      "name": "קייג׳ון",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קייג'ון היא תערובת תבלינים מדהימה וטעימה המבוססת על כמה סוגי פלפלים, קלויים וצלויים. מתאים לפרגיות, אורז וירקות צלויים.",
+      "sku": "5114",
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/kyygvn-3notes",
+      "categories": [
+        "תבלינים ותערובות",
+        "תבלינים טחונים"
+      ],
+      "updated_at": "2026-07-09T07:18:41.798Z"
+    },
+    {
+      "id": "ade1b14c-5302-4073-9951-7b3ce0f8c500",
+      "slug": "chtyp-anns-krantsy-100-pry-zhb20p",
+      "name": "חטיף אננס קראנצ׳י 100% פרי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל: 20 גרם",
+      "sku": "12022",
+      "brand": null,
+      "price": 9.9,
+      "base_price": 9.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581521523-nxhk5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chtyp-anns-krantsy-100-pry-zhb20p",
+      "categories": [
+        "בריאות ואנרגיה",
+        "בריאות לילדים"
+      ],
+      "updated_at": "2026-07-09T07:18:41.793Z"
+    },
+    {
+      "id": "4adc4dfb-2994-4dc3-a970-26b78b64244c",
+      "slug": "kvkvs-tchvn-160-grm-80fd2q",
+      "name": "קוקוס טחון 160 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "a7514a240931",
+      "brand": null,
+      "price": 6.9,
+      "base_price": 6.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581521522-ne5uei.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/kvkvs-tchvn-160-grm-80fd2q",
+      "categories": [
+        "דגנים וקטניות",
+        "מוצרים לבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:41.788Z"
+    },
+    {
+      "id": "e80de407-1672-4d06-9662-93f8b59601af",
+      "slug": "chmat-bvtnym-tbayt-am-shbry-bvtnym-krantsy-350-grm-yrvk-bampd-xkbhef",
+      "name": "חמאת בוטנים טבעית עם שברי בוטנים קראנצ׳י 350 גרם (ירוק) - B&amp;D",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל 100% בוטנים קלויים. חמאת הבוטנים הטבעית ממיוצרת מבוטנים מובחרים הקלויים בקלייה איטית ללא צבעי מאכל וללא כימיקלים. חמאת הבוטנים בעלת ערך תזונתי גבוה ומצטיינת בטעמה. ללא תוספת סוכר וללא תוספת שמן.",
+      "sku": "11032",
+      "brand": null,
+      "price": 15.9,
+      "base_price": 15.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chmat-bvtnym-tbayt-am-shbry-bvtnym-krantsy-350-grm-yrvk-bampd-xkbhef",
+      "categories": [
+        "מוצרים לבישול",
+        "ממרחים ומטבלים",
+        "ממרחים ורטבים"
+      ],
+      "updated_at": "2026-07-09T07:18:40.849Z"
+    },
+    {
+      "id": "1a0d4489-8a76-4f6e-8456-297e0ba8b984",
+      "slug": "plpl-angly-shlm-d9p644",
+      "name": "פלפל אנגלי שלם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בפלפל אנגלי אפשר להשתמש במגוון מאכלים: שלם בחמוצים, רטבים ומרינדות וטחון עם מאכלי בשר, קארי ואפילו עוגות וקינוחים. הוא בריא מאוד ומסייע לעיכול ולכאבי שיניים.",
+      "sku": "5088",
+      "brand": null,
+      "price": 140,
+      "base_price": 140,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581520247-tidcu.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/plpl-angly-shlm-d9p644",
+      "categories": [
+        "תבלינים ותערובות",
+        "תבלינים שלמים"
+      ],
+      "updated_at": "2026-07-09T07:18:40.751Z"
+    },
+    {
+      "id": "e561834b-82bc-4b20-837b-7d73b6c4140a",
+      "slug": "chlytt-kmvmyl-bvnvmly-0xnsoe",
+      "name": "חליטת קמומיל- בונומלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "28 גרם / 14 שקיות תה\n\nמכיל את כל חלקי פרח הקמומיל.\n\nתהליך יצור השקיקים של BONOMELLI הוא ייחודי ומורכב וזאת על מנת לשמר את פרחי הקמומיל בשלמותם ולהשיג את מלוא החומר הפעיל והתכונות המועילות הרבה יותר מכל מוצר דומה.\n\nללא קפאין.",
+      "sku": "16131-1",
+      "brand": null,
+      "price": 18.9,
+      "base_price": 18.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581520151-3iv1i8.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chlytt-kmvmyl-bvnvmly-0xnsoe",
+      "categories": [
+        "חליטות תה",
+        "קפה וחליטות"
+      ],
+      "updated_at": "2026-07-09T07:18:40.627Z"
+    },
+    {
+      "id": "23c6e613-1256-4e70-ade6-6f9ac5a2d2d0",
+      "slug": "mlppvnym-chmvtsym-avrgny-670-grm-krm-6venve",
+      "name": "מלפפונים חמוצים אורגני 670 גרם- כרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "8030-1-2-1",
+      "brand": null,
+      "price": 22.9,
+      "base_price": 22.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581520118-376rqv.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mlppvnym-chmvtsym-avrgny-670-grm-krm-6venve",
+      "categories": [
+        "דף הבית - מוצרים חדשים",
+        "זיתים ומוצרי מעדניה",
+        "מוצרים לבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:40.601Z"
+    },
+    {
+      "id": "da4c485e-d299-42ed-a5a9-d40e9fbab2d2",
+      "slug": "aly-hybyskvs-et5309",
+      "name": "עלי היביסקוס",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "16045",
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581520244-tjwl1.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/aly-hybyskvs-et5309",
+      "categories": [
+        "חליטות תה",
+        "קפה וחליטות"
+      ],
+      "updated_at": "2026-07-09T07:18:40.593Z"
+    },
+    {
+      "id": "a4038b41-f760-4fb8-99e1-d1b5911c3968",
+      "slug": "zyt-svry-mtvbl-bplplym-vlymvn-pyknty-evtq3i",
+      "name": "זית סורי מתובל בפלפלים ולימון - פיקנטי",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": null,
+      "brand": null,
+      "price": 65,
+      "base_price": 65,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/zyt-svry-mtvbl-bplplym-vlymvn-pyknty-evtq3i",
+      "categories": [
+        "זיתים ומוצרי מעדניה",
+        "מוצרים לבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:40.495Z"
+    },
+    {
+      "id": "40cdca65-cbcb-4adf-86cd-02c703bcdf79",
+      "slug": "rpals-chtyp-grnvlh-kshyv-vkvkvs-150-grm-gxfuw3",
+      "name": "רפאלס - חטיף גרנולה קשיו וקוקוס 150 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל 150 גרם",
+      "sku": "12225",
+      "brand": null,
+      "price": 17.9,
+      "base_price": 17.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/rpals-chtyp-grnvlh-kshyv-vkvkvs-150-grm-gxfuw3",
+      "categories": [
+        "בריאות ואנרגיה",
+        "חטיפי בריאות ואנרגיה"
+      ],
+      "updated_at": "2026-07-09T07:18:40.475Z"
+    },
+    {
+      "id": "f61089e9-3bf2-4104-a897-807b2d1503c2",
+      "slug": "rbyvly-gbynvt-ayzym-vbzylykvm-9riy2r",
+      "name": "רביולי גבינות עיזים ובזיליקום",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מגיע באריזה של 500 גרם.",
+      "sku": "14076",
+      "brand": null,
+      "price": 36.9,
+      "base_price": 36.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581520115-j6iesh.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/rbyvly-gbynvt-ayzym-vbzylykvm-9riy2r",
+      "categories": [
+        "לחמים ומאפים",
+        "רביולי וניוקי בעבודת יד"
+      ],
+      "updated_at": "2026-07-09T07:18:40.468Z"
+    },
+    {
+      "id": "ab8a2053-ad27-41d6-94b7-e829ad8a0cdc",
+      "slug": "dbsh-thvr-mprchy-mrvvh-1-kg-hkvvrt-shl-nyr-1j87ml",
+      "name": "דבש טהור מפרחי מרווה 1 ק״ג - הכוורת של ניר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "100% דבש טהור לא מחומם",
+      "sku": "9012",
+      "brand": null,
+      "price": 59.9,
+      "base_price": 59.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581520125-uslx19.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/dbsh-thvr-mprchy-mrvvh-1-kg-hkvvrt-shl-nyr-1j87ml",
+      "categories": [
+        "דבש\\",
+        "סילאן ומייפל",
+        "מוצרים לבישול",
+        "ממרחים ורטבים"
+      ],
+      "updated_at": "2026-07-09T07:18:40.362Z"
+    },
+    {
+      "id": "73495f9f-a103-4107-9f75-5c17ab1a5869",
+      "slug": "pvzyly-trykvlvr-lla-glvtn-dgsh-ycxl8z",
+      "name": "פוזילי טריקולור ללא גלוטן- דגש",
+      "name_translations": {},
+      "description": "",
+      "short_description": "משקל נקי: 400 גרם \n\nאטריות טריקולור ללא גלוטן , ללא ביצים, ללא נתרן.\n\nרכיבים: קמח תירס (95.5%), תרד (2%), עגבניות (2%), מתחלב E471.",
+      "sku": null,
+      "brand": null,
+      "price": 15.9,
+      "base_price": 15.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/pvzyly-trykvlvr-lla-glvtn-dgsh-ycxl8z",
+      "categories": [
+        "לחמים ומאפים",
+        "פסטה יבשה"
+      ],
+      "updated_at": "2026-07-09T07:18:40.333Z"
+    },
+    {
+      "id": "38f030d2-de20-4230-b5af-54e659f2f587",
+      "slug": "smvzy-shybvlt-shval-tpvch-btth-tvt-avrgny-3-ych-b-15-shch-qce8zj",
+      "name": "סמוזי שיבולת שועל תפוח בטטה תות אורגני- 3 יח' ב-15 ש\"ח",
+      "name_translations": {},
+      "description": "",
+      "short_description": "רכיבים : תפוח (67%) , בטטה (20%) , תות (10%) , שיבולת שועל (3%) .\n\nרכיבים אורגניים בלבד | ללא כל תוספות | ללא חומרים משמרים.\n\n*מקור הסוכרים מהפרי בלבד.\n\nמידע על אלרגניים : מכיל שיבולת שועל",
+      "sku": "13074-1-1",
+      "brand": null,
+      "price": 5.9,
+      "base_price": 5.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581518741-v6onj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/smvzy-shybvlt-shval-tpvch-btth-tvt-avrgny-3-ych-b-15-shch-qce8zj",
+      "categories": [
+        "בריאות ואנרגיה",
+        "בריאות לילדים",
+        "מבצע סמוזי 3 ב-15 ש״ח",
+        "מבצעים קבועים"
+      ],
+      "updated_at": "2026-07-09T07:18:39.597Z"
+    },
+    {
+      "id": "722fa976-a085-4b69-8b1f-5019b7f76dcf",
+      "slug": "dbsh-thvr-mprchy-shyzp-1-kg-hkvvrt-shl-nyr-bq19go",
+      "name": "דבש טהור מפרחי שיזף 1 ק״ג - הכוורת של ניר",
+      "name_translations": {},
+      "description": "",
+      "short_description": "100% דבש טהור לא מחומם",
+      "sku": "9014",
+      "brand": null,
+      "price": 59.9,
+      "base_price": 59.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/dbsh-thvr-mprchy-shyzp-1-kg-hkvvrt-shl-nyr-bq19go",
+      "categories": [
+        "דבש\\",
+        "סילאן ומייפל",
+        "מוצרים לבישול",
+        "ממרחים ורטבים"
+      ],
+      "updated_at": "2026-07-09T07:18:39.362Z"
+    },
+    {
+      "id": "1baae9f3-3ed8-487d-8ccf-897fe2119c90",
+      "slug": "tblt-shvkvld-lbn-mavlh-am-shbry-kkav-vkph-100-grm-holy-cacao-ezjnms",
+      "name": "טבלת שוקולד לבן מעולה עם שברי קקאו וקפה 100 גרם -Holy cacao",
+      "name_translations": {},
+      "description": "",
+      "short_description": "חלבי",
+      "sku": "48848d71ceac-3-1-1-1-4",
+      "brand": null,
+      "price": 21.9,
+      "base_price": 21.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581518654-yejcoi.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/tblt-shvkvld-lbn-mavlh-am-shbry-kkav-vkph-100-grm-holy-cacao-ezjnms",
+      "categories": [
+        "המתוקים שלנו",
+        "לחמים ומאפים",
+        "מוצרי אפייה",
+        "שוקולדים"
+      ],
+      "updated_at": "2026-07-09T07:18:39.210Z"
+    },
+    {
+      "id": "5265c7cf-984f-48a0-a515-e3693af17aa4",
+      "slug": "agbnyvt-shry-400-grm-mutti-ej2qj7",
+      "name": "עגבניות שרי 400 גרם - Mutti",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "14028",
+      "brand": null,
+      "price": 12.5,
+      "base_price": 12.5,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/agbnyvt-shry-400-grm-mutti-ej2qj7",
+      "categories": [
+        "מוצרים לבישול",
+        "רסק ושימורי עגבניות"
+      ],
+      "updated_at": "2026-07-09T07:18:39.087Z"
+    },
+    {
+      "id": "3b23180f-b794-4b46-9e2a-af9a3076a7ff",
+      "slug": "rvtb-tryaky-lla-tvspt-svkr-vlla-glvtn-340-ml-skinny-jlx2cz",
+      "name": "רוטב טריאקי ללא תוספת סוכר וללא גלוטן 340 מ\"ל- SKINNY",
+      "name_translations": {},
+      "description": "",
+      "short_description": "רוטב טריאקי ללא תוספת סוכר וללא גלוטן\n\nרכיבים: ממתיק (E420) , רוטב סויה (מים, פולי סויה נטולי שומן , פולי סויה , מלח) (20%) , מים , מלח , מסמיך עמילן מעובד (E1422) , מחזק טעם גלוטמט (E621) , צבע מאכל קרמל , תבלינים , חומרי טעם וריח מייצב (E415) , מחזק טעם (E635) , חומר משמר (E202).\n\nמידע על אלרגניים : מכיל: סויה",
+      "sku": "79e9f453f6a1-1",
+      "brand": null,
+      "price": 34.9,
+      "base_price": 34.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581518584-cw6bci5.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/rvtb-tryaky-lla-tvspt-svkr-vlla-glvtn-340-ml-skinny-jlx2cz",
+      "categories": [
+        "המטבח האסייתי",
+        "רטבים וממרחים אסיתיים"
+      ],
+      "updated_at": "2026-07-09T07:18:38.975Z"
+    },
+    {
+      "id": "0e41558e-c074-4486-b690-87b5b73b6100",
+      "slug": "nyvky-tpvch-admh-myny-lla-glvtn-500-grm-jx8irz",
+      "name": "ניוקי תפוח אדמה מיני ללא גלוטן - 500 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "בצקניות תפוחי אדמה ללא גלוטן. יש להרתיח מים בסיר ולהכניס את הניוקי למים הרותחים . לבשל כ 2-3 דקות עד שהניוקי צפים על פני המים. להגיש חם.",
+      "sku": "14080",
+      "brand": null,
+      "price": 17.9,
+      "base_price": 17.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/nyvky-tpvch-admh-myny-lla-glvtn-500-grm-jx8irz",
+      "categories": [
+        "לחמים ומאפים",
+        "פסטה יבשה"
+      ],
+      "updated_at": "2026-07-09T07:18:38.968Z"
+    },
+    {
+      "id": "40ab6fa6-272a-472f-8b4a-b23838c0c4b7",
+      "slug": "pprykh-mtvkh-rgylh-5nsob0",
+      "name": "פפריקה מתוקה רגילה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מופקת על ידי טחינה של פלפל צ'ילי לאבקה. פפריקה מתוקה - הפלפלים נטחנים ללא הגרעינים והעורקים.",
+      "sku": "5106",
+      "brand": null,
+      "price": 40,
+      "base_price": 40,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581518572-q7wxnk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/pprykh-mtvkh-rgylh-5nsob0",
+      "categories": [
+        "תבלינים ותערובות",
+        "תבלינים טחונים"
+      ],
+      "updated_at": "2026-07-09T07:18:38.924Z"
+    },
+    {
+      "id": "36e1dbeb-7b9f-4377-9a8d-6d8e8bce08ad",
+      "slug": "adshym-chvmvt-mbvshlvt-230-grm-tam-htba-h33763",
+      "name": "עדשים חומות מבושלות 230 גרם - טעם הטבע",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מוכן לאכילה",
+      "sku": null,
+      "brand": null,
+      "price": 6.9,
+      "base_price": 6.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581518654-rfwe8j.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/adshym-chvmvt-mbvshlvt-230-grm-tam-htba-h33763",
+      "categories": [
+        "דגנים וקטניות",
+        "מוצרים לבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:38.919Z"
+    },
+    {
+      "id": "a90ef2e7-a6ec-47d6-87d1-2d5d65ae34fd",
+      "slug": "prlynym-lbnym-btam-chlb-bmylvy-krm-lbn-4d13f3",
+      "name": "פרלינים לבנים - בטעם חלב במילוי קרם לבן",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "3251bed7a8f5",
+      "brand": null,
+      "price": 89,
+      "base_price": 89,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581518572-djxmju.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/prlynym-lbnym-btam-chlb-bmylvy-krm-lbn-4d13f3",
+      "categories": [
+        "המתוקים שלנו",
+        "שוקולדים"
+      ],
+      "updated_at": "2026-07-09T07:18:38.864Z"
+    },
+    {
+      "id": "52fdaebc-b44d-4c40-ab5c-9d993a1b04e1",
+      "slug": "shvkvld-adshym-400-grm-2zi9y2",
+      "name": "שוקולד עדשים - 400 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "aeaae9773192-2-1",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581518587-pl7gak.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/shvkvld-adshym-400-grm-2zi9y2",
+      "categories": [
+        "צורן"
+      ],
+      "updated_at": "2026-07-09T07:18:38.862Z"
+    },
+    {
+      "id": "ae81a4a8-488b-46b5-84be-2be92ad26d7d",
+      "slug": "zatr-lbnvny-w8jbe7",
+      "name": "זעתר לבנוני",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עלי זעתר טחון בתוספת שום, סומק ומלח. מתאים במיוחד בעיקר לתיבול מאפים ורטבים בסגנון המטבח הים תיכוני.",
+      "sku": "5027",
+      "brand": null,
+      "price": 69,
+      "base_price": 69,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581517249-4o0e2jk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/zatr-lbnvny-w8jbe7",
+      "categories": [
+        "תבלינים ותערובות",
+        "תבלינים טחונים"
+      ],
+      "updated_at": "2026-07-09T07:18:38.076Z"
+    },
+    {
+      "id": "59356287-6cd8-4f46-a401-21f1c3a6db50",
+      "slug": "kph-tchvn-bmshkl-kvlvmbyh-fq7z1u",
+      "name": "קפה טחון במשקל - קולומביה",
+      "name_translations": {},
+      "description": "",
+      "short_description": "קפה מתקתק וחלק, עשיר בטעמי כרמל. חמיצות בשלה.",
+      "sku": "160781",
+      "brand": null,
+      "price": 120,
+      "base_price": 120,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581516725-z86mj.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/kph-tchvn-bmshkl-kvlvmbyh-fq7z1u",
+      "categories": [
+        "קפה וחליטות",
+        "קפה טחון וקפסולות"
+      ],
+      "updated_at": "2026-07-09T07:18:37.999Z"
+    },
+    {
+      "id": "8a46829b-39de-4479-9960-a478089f2235",
+      "slug": "bvrgvl-abh-500-grm-2afukm",
+      "name": "בורגול עבה - 500 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": "0.85 ש״ח ל-100 גרם",
+      "sku": "e7808becfee3",
+      "brand": null,
+      "price": 5,
+      "base_price": 5,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581516728-seib3.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/bvrgvl-abh-500-grm-2afukm",
+      "categories": [
+        "דגנים וקטניות",
+        "מוצרים לבישול"
+      ],
+      "updated_at": "2026-07-09T07:18:37.631Z"
+    },
+    {
+      "id": "375219c1-0e42-4660-a3a8-280d2ca6092a",
+      "slug": "mmtyk-svvytangv-280-grm-sweetango-t8jp81",
+      "name": "ממתיק סוויטאנגו 280 גרם - Sweetango",
+      "name_translations": {},
+      "description": "",
+      "short_description": "לא תאמינו שזה לא סוכר! עשוי מאריתריטול, סטיביול וגליקוזיד המופק מצמח הסטיביה. מכיל 280 גרם. התמונה להמחשה בלבד.\n\nהסטיביה הינו צמח תבלין נטול קלוריות המכיל חומר בשם סטיביול גליקוזיד. הצמח הגדל בעיקר בדרום אמריקה שם מכונה עשב מתוק ומשמש כבר מאות בשנים לטיפול בבעיות בריאות שונות. הסטיביה מתוק מאוד, בערך פי 10-15 מסוכר, אבקת הסטיביוזיד המופקת מהצמח מתוקה בערך פי 200. אך היא נטולת קלוריות ולא נחשבת לפחמימה.\n\nהסטיביה היא טבעית לחלוטין ואינה משלבת תהליך כימי בהפקתה כמו הרבה תחליפי סוכר אחרים, הא בטוחה לשימוש בדיאטות שונות ובמיוחד עבור חולי סכרת. הממתיק הזה יעיל בלא מעט תהליכים פיזיים, הוא מסייע בהפחתת לחץ הדם ובאיזון רמת הסוכר בדם, ומסייע למערכת העיכול בפעילותה ובהקטנת חומציות בקיבה. כמו כן, בניגוד לסוכרים אחרים, הוא נמצא יעיל בשמירה על בריאות השיניים, כאשר שימוש בו מקטין את הצטברות החיידקים ומניעת עששת ומחלות חניכיים למיניהם. הסטיביה נמכרת בכמה אופנים, כאבקת ממתיק, גרגירים קטנים או כנוזל ממתיק.",
+      "sku": "13023",
+      "brand": null,
+      "price": 35.9,
+      "base_price": 35.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mmtyk-svvytangv-280-grm-sweetango-t8jp81",
+      "categories": [
+        "בריאות ואנרגיה",
+        "סוכר ותחליפיו"
+      ],
+      "updated_at": "2026-07-09T07:18:37.547Z"
+    },
+    {
+      "id": "606a35fe-27de-475f-9b57-7fb2d66c27fb",
+      "slug": "mkvplt-shvkv-vnyl-81mh8n",
+      "name": "מקופלת שוקו-וניל",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "cbe206d0e1d0-1",
+      "brand": null,
+      "price": 110,
+      "base_price": 110,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/mkvplt-shvkv-vnyl-81mh8n",
+      "categories": [
+        "המתוקים שלנו",
+        "שוקולדים"
+      ],
+      "updated_at": "2026-07-09T07:18:37.386Z"
+    },
+    {
+      "id": "cc375de4-32e8-4dd5-84d4-f14f8a10afe3",
+      "slug": "myks-hkvlh-dly-ufyljf",
+      "name": "מיקס הקולה - דלי",
+      "name_translations": {},
+      "description": "",
+      "short_description": "מכיל אגוזי מלך, קשיו, שקדים, אגוזי לוז, חמוציות ללא סוכר, פיסטוק, ג׳וגי ברי, קוקוס, צימוק לבן וגולדן ברי",
+      "sku": "e98a256aeedf-1",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581516864-nc4431.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/myks-hkvlh-dly-ufyljf",
+      "categories": [
+        "צורן"
+      ],
+      "updated_at": "2026-07-09T07:18:37.186Z"
+    },
+    {
+      "id": "774cfc46-9ea7-408c-8e02-6a13829e7b70",
+      "slug": "gchnvn-byyty-btsk-kpva-babvdt-yd-d8o4vk",
+      "name": "ג'חנון בייתי בצק קפוא בעבודת יד",
+      "name_translations": {},
+      "description": "",
+      "short_description": "ג'חנון בייתי קפוא בעבודת יד - רק לאפות בתנור. מגיע עטוף אחד אחד.",
+      "sku": "c88c5f22d55c",
+      "brand": null,
+      "price": 6,
+      "base_price": 6,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/gchnvn-byyty-btsk-kpva-babvdt-yd-d8o4vk",
+      "categories": [
+        "לחמים ומאפים",
+        "עוגיות\\",
+        "קרקרים וגריסיני"
+      ],
+      "updated_at": "2026-07-09T07:18:37.175Z"
+    },
+    {
+      "id": "bd051ecf-6810-41f6-ba6c-1c0d45213413",
+      "slug": "lmvn-gras-lymvnyt-myvbsh-6rdkqe",
+      "name": "למון גראס (לימונית) מיובש",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "16110",
+      "brand": null,
+      "price": 11.9,
+      "base_price": 11.9,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/lmvn-gras-lymvnyt-myvbsh-6rdkqe",
+      "categories": [
+        "חליטות תה",
+        "קפה וחליטות"
+      ],
+      "updated_at": "2026-07-09T07:18:37.150Z"
+    },
+    {
+      "id": "a6710505-77a8-46e7-9e72-c9cada83c0a2",
+      "slug": "chvmvs-mksykny-500-grm-zzzvs9",
+      "name": "* חומוס מקסיקני - 500 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "966bd68a7553-1",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581516730-yp7kit.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/chvmvs-mksykny-500-grm-zzzvs9",
+      "categories": [
+        "צורן"
+      ],
+      "updated_at": "2026-07-09T07:18:37.129Z"
+    },
+    {
+      "id": "4c1d3201-ffb1-4985-986f-e3a66e6debf2",
+      "slug": "dvchn-500-grm-5fwia5",
+      "name": "* דוחן - 500 גרם",
+      "name_translations": {},
+      "description": "",
+      "short_description": null,
+      "sku": "911606084603-1",
+      "brand": null,
+      "price": 0,
+      "base_price": 0,
+      "sale_price": null,
+      "currency": "ILS",
+      "images": [
+        "https://hakola-market-1.zappy5.app/assets/product-1783581516744-p9riok.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://hakola-market-1.zappy5.app/product/dvchn-500-grm-5fwia5",
+      "categories": [
+        "צורן"
+      ],
+      "updated_at": "2026-07-09T07:18:37.120Z"
+    },
     {
       "id": "0b5c6fcb-2549-46a1-9f72-f3028737a3f6",
       "slug": "tmr-mghvl-rgyl-h8ev4o",
