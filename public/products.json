@@ -1,13 +1,13 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-09T08:19:32.944Z",
+  "generated_at": "2026-07-09T08:22:34.115Z",
   "base_url": "https://hakola-market-1.zappy5.app",
   "currency": "ILS",
   "count": 100,
   "products": [
     {
       "id": "a4c7f28a-841c-41b3-be56-c2973104f2d0",
-      "slug": "shvkvld-lbn-mavlh-am-shbry-pystvk-100-grm-holy-cacao-zra49r",
+      "slug": "shvkvld-lbn-mavlh-am-shbry-pystvk-100-grm-holy-cacao-j39u21",
       "name": "שוקולד לבן מעולה עם שברי פיסטוק 100 גרם- Holy cacao",
       "name_translations": {},
       "description": "",
@@ -23,16 +23,12 @@
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://hakola-market-1.zappy5.app/product/shvkvld-lbn-mavlh-am-shbry-pystvk-100-grm-holy-cacao-zra49r",
+      "url": "https://hakola-market-1.zappy5.app/product/shvkvld-lbn-mavlh-am-shbry-pystvk-100-grm-holy-cacao-j39u21",
       "categories": [
         "המתוקים שלנו",
-        "לחמים ומאפים",
-        "מבצע הולי קקאו 2 ב-30",
-        "מבצעים קבועים",
-        "מוצרי אפייה",
-        "שוקולדים"
+        "מוצרי אפייה"
       ],
-      "updated_at": "2026-07-09T08:19:01.141Z"
+      "updated_at": "2026-07-09T08:22:02.245Z"
     },
     {
       "id": "6ed384fc-f047-44cc-9960-b206d05182ae",

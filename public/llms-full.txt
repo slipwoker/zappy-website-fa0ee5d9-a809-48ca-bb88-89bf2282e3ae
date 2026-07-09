@@ -5768,7 +5768,7 @@ Description: הקולה Market - תודה שפניתם אלינו | הקולה M
 ## Product Catalog
 
 ### שוקולד לבן מעולה עם שברי פיסטוק 100 גרם- Holy cacao
-URL: https://hakola-market-1.zappy5.app/product/shvkvld-lbn-mavlh-am-shbry-pystvk-100-grm-holy-cacao-zra49r
+URL: https://hakola-market-1.zappy5.app/product/shvkvld-lbn-mavlh-am-shbry-pystvk-100-grm-holy-cacao-j39u21
 Price: 21.90 ILS
 Availability: In stock
 SKU: 48848d71ceac-3-1-1-1-2
