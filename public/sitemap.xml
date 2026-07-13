@@ -2,97 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://hakola-market-1.zappy5.app</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/about</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/blog</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/contact</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/products</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/cart</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/checkout</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/login</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/account</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/order-success</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/product/:slug</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/category/:slug</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/thank-you</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/privacy</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/terms</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://hakola-market-1.zappy5.app/accessibility</loc>
-    <lastmod>2026-07-09</lastmod>
+    <lastmod>2026-07-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
