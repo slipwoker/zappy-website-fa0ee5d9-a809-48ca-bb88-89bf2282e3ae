@@ -366,13 +366,13 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
       </div>
       <div class="search-results" id="mobile-search-results"></div>
     </div>
-<script>window.ZAPPY_WEBSITE_ID = "fa0ee5d9-a809-48ca-bb88-89bf2282e3ae";window.ZAPPY_API_BASE = "https://api.zappy5.com"</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
+<script>window.ZAPPY_WEBSITE_ID = "fa0ee5d9-a809-48ca-bb88-89bf2282e3ae";window.ZAPPY_API_BASE = (window.location.pathname.includes('/preview') ? "https://api.zappy5.com" : "https://api.zappy5.com");</script><a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
@@ -877,12 +877,12 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
   <div class="about-intro-container">
     <!-- Content Column (Right in RTL) -->
     <div class="about-intro-content">
-      <h1 class="about-intro-heading"><span style="color: #4a4a4a !important"><span style="color: #ffffff !important">הקולה מרקט – בית של טעמים</span></span></h1>
-      <p class="about-intro-lead"><span style="color: #4a4a4a !important"><span style="color: #ffffff !important">
+      <h1 class="about-intro-heading" style=""><span style="color: #4a4a4a !important"><span style="color: #ffffff !important">הקולה מרקט – בית של טעמים</span></span></h1>
+      <p class="about-intro-lead" style=""><span style="color: #4a4a4a !important"><span style="color: #ffffff !important">
         אנחנו משפחת הקולה Market, מזמינים אתכם לקנות באתר קניות חדשני, המביא אליכם עד הבית
         טעמים, ריחות, צבעים ושלל דברים טובים לשדרוג המטבח, לחיזוק הבריאות, לאירוח מנצח או סתם לפינוק.
       </span></span></p>
-      <p class="about-intro-supporting"><span style="color: #707070 !important"><span style="color: #ffffff !important">
+      <p class="about-intro-supporting" style=""><span style="color: #707070 !important"><span style="color: #ffffff !important">
         הקולה Market הינו עסק משפחתי שהוקם מתוך רצון להעניק משהו אחר, שונה וייחודי, ושמנו לנו מטרה
         להיות מיוחדים מאתרים אחרים הקיימים בשוק. אנחנו מאמינים שחווית קנייה מעולה היא לא סתם סיסמה
         אלא דרך פעולה המשלבת רמת שירות גבוהה, מגוון רחב של מוצרים, איכות וטריות ללא פשרות ומחירים
@@ -891,12 +891,12 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
       <div class="about-intro-stats">
         <div class="about-intro-stat-item">
           <span class="about-intro-stat-year" style="color: rgb(47, 36, 31) !important;"><span style="color: #2f241f !important"><span style="color: #ffffff !important">2014</span></span></span>
-          <span class="about-intro-stat-label"><span style="color: #707070 !important"><span style="color: #ffffff !important">שנת הקמה בנתניה</span></span></span>
+          <span class="about-intro-stat-label" style=""><span style="color: #707070 !important"><span style="color: #ffffff !important">שנת הקמה בנתניה</span></span></span>
         </div>
         <div class="about-intro-stat-divider" aria-hidden="true"></div>
         <div class="about-intro-stat-item">
           <span class="about-intro-stat-year" style="color: rgb(47, 36, 31) !important;"><span style="color: #2f241f !important"><span style="color: #ffffff !important">2021</span></span></span>
-          <span class="about-intro-stat-label"><span style="color: #707070 !important"><span style="color: #ffffff !important">סניף נוסף במרכז צורן</span></span></span>
+          <span class="about-intro-stat-label" style=""><span style="color: #707070 !important"><span style="color: #ffffff !important">סניף נוסף במרכז צורן</span></span></span>
         </div>
       </div>
     </div>
@@ -1082,37 +1082,37 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
   </div>
 </section>
 
-<section class="about-branches-section" data-layout-spec="אודות-branches">
+<section class="about-branches-section" data-layout-spec="אודות-branches" id="zappy-section-3">
   <div class="about-branches-section__container">
     <div class="about-branches-section__header">
       <h2 class="about-branches-section__title">הסניפים שלנו</h2>
       <p class="about-branches-section__subtitle">מהשורשים בנתניה ועד הלב הפועם בצורן – כל סניף הוא בית של טעמים</p>
     </div>
-    <div class="about-branches-section__grid">
+    <div class="about-branches-section__grid zappy-preserve-css-grid" id="zappy-auto-grid-1783942615319-k7mrt6" data-zappy-auto-grid="true" data-zappy-grid-align="start" data-original-item-width="584" data-original-gap="32px" style="display: grid; --zappy-grid-cols: repeat(auto-fit, minmax(min(100%, 480px), 1fr)); grid-template-columns: repeat(auto-fit, minmax(min(100%, 480px), 1fr)); align-items: stretch !important;" data-zappy-explicit-columns="true">
       <!-- Branch 1: Netanya -->
-      <article class="about-branches-section__card">
+      <article class="about-branches-section__card" data-grid-item-index="0" style="overflow: hidden !important;">
         <div class="about-branches-section__image-wrapper">
-          <img loading="lazy" decoding="async" data-placeholder="about-branches-image-1" data-context="Exterior storefront of a warm, family-owned specialty spice and nuts shop in Netanya, Israel. Warm Mediterranean evening light, terracotta and cream facade, large glass windows displaying colorful spice jars and burlap sacks of legumes. Inviting and authentic neighborhood feel." width="600" height="400" src="/assets/site-about-branches-image-1.webp" alt="חזית הסניף המקורי של הקולה מרקט בנתניה" fetchpriority="low">
+          <img decoding="async" data-placeholder="about-branches-image-1" data-context="Exterior storefront of a warm, family-owned specialty spice and nuts shop in Netanya, Israel. Warm Mediterranean evening light, terracotta and cream facade, large glass windows displaying colorful spice jars and burlap sacks of legumes. Inviting and authentic neighborhood feel." width="600" height="400" src="/assets/market-e-commerce-specialty-food-spices-gallery-upload-1783942526469-xlwhuq.webp?t=1783942790848" alt="חזית הסניף המקורי של הקולה מרקט בנתניה" data-element-type="image" data-element-id="img-1783942615299-ujn1ijthh" class="zappy-resizable-hover" style="object-position: 50% 50%; width: 582px !important; height: 388px !important; object-fit: cover !important; max-width: 100% !important; display: block !important;" data-zappy-original-width="582" data-zappy-original-height="388" loading="lazy" fetchpriority="low">
         </div>
         <div class="about-branches-section__card-content">
-          <span class="about-branches-section__badge">הוקם ב-2014</span>
-          <h3 class="about-branches-section__card-title">נתניה – הבית הראשון</h3>
+          <p class="zappy-editable"><span class="about-branches-section__badge">הוקם ב-2014</span>
+          </p><h3 class="about-branches-section__card-title">נתניה – הבית הראשון</h3>
           <p class="about-branches-section__card-text">הכל התחיל כאן, בלב נתניה, מתוך אהבה אמיתית לתבלינים, פיצוחים ומוצרי מדף איכותיים. הסניף הראשון שלנו הוא המקום שבו נולד החלום – חנות משפחתית חמה עם דלפקי עץ, ניחוחות משכרים ושירות אישי שמזכיר את השוק של פעם.</p>
-          <a href="#" class="about-branches-section__link" style="color: #1A1A1A !important">דרכי הגעה לנתניה →</a>
-        </div>
+          <p class="zappy-editable"><a href="#" class="about-branches-section__link" style="color: #1A1A1A !important">דרכי הגעה לנתניה →</a>
+        </p></div>
       </article>
 
       <!-- Branch 2: Tzoran -->
-      <article class="about-branches-section__card">
+      <article class="about-branches-section__card" data-grid-item-index="1">
         <div class="about-branches-section__image-wrapper">
-          <img loading="lazy" decoding="async" data-placeholder="about-branches-image-2" data-context="Modern, beautifully designed interior of a specialty food store in Tzoran Center, Israel. Sleek dark wood shelving, warm ambient pendant lighting, organized displays of freshly ground coffee, Italian pasta, Asian sauces, and keto-friendly products. Contemporary yet cozy atmosphere." width="600" height="400" src="/assets/site-about-branches-image-2.webp" alt="חלל הפנים המעוצב של הקולה מרקט במרכז צורן" fetchpriority="low">
+          <img loading="lazy" decoding="async" data-placeholder="about-branches-image-2" data-context="Modern, beautifully designed interior of a specialty food store in Tzoran Center, Israel. Sleek dark wood shelving, warm ambient pendant lighting, organized displays of freshly ground coffee, Italian pasta, Asian sauces, and keto-friendly products. Contemporary yet cozy atmosphere." width="600" height="400" src="/assets/site-about-branches-image-2.webp" alt="חלל הפנים המעוצב של הקולה מרקט במרכז צורן" data-element-type="image" data-element-id="img-1783942615300-fordss1xe" style="" fetchpriority="low">
         </div>
         <div class="about-branches-section__card-content">
-          <span class="about-branches-section__badge">נפתח ב-2021</span>
-          <h3 class="about-branches-section__card-title">צורן – הלב החדש</h3>
+          <p class="zappy-editable"><span class="about-branches-section__badge">נפתח ב-2021</span>
+          </p><h3 class="about-branches-section__card-title">צורן – הלב החדש</h3>
           <p class="about-branches-section__card-text">בספטמבר 2021 פתחנו סניף נוסף ומושקע במיוחד במרכז צורן, כדי להביא את חוויית הקולה מרקט לקהילה הצומחת. עיצוב מודרני, מגוון רחב עוד יותר של קמחים מיוחדים, קטניות, תזונה קטוגנית ומוצרים מרחבי העולם – הכל באותה הקפדה על טריות ואיכות.</p>
-          <a href="#" class="about-branches-section__link" style="color: #1A1A1A !important">דרכי הגעה לצורן →</a>
-        </div>
+          <p class="zappy-editable"><a href="#" class="about-branches-section__link" style="color: #1A1A1A !important">דרכי הגעה לצורן →</a>
+        </p></div>
       </article>
     </div>
   </div>
