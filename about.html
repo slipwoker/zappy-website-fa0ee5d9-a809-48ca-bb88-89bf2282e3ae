@@ -873,21 +873,21 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
 </script>
   
   <main id="main">
-    <section class="about-intro-section" data-layout-spec="אודות-intro" dir="rtl" id="about-intro-section" style="margin-top: -70px !important; padding-top: 70px !important;">
+    <section class="about-intro-section zappy-lazy-bg" data-layout-spec="אודות-intro" dir="rtl" id="about-intro-section" style="margin-top: -70px !important;padding-top: 70px !important;--zappy-bg-overlay: rgba(0, 0, 0, 0);--zappy-bg-size: cover;--zappy-bg-position: center;background-size: cover;background-position: center center;background-repeat: no-repeat;position: relative;overflow: hidden;--zappy-bg-color: #fbf5e6" data-zappy-bg-orig-size-var="" data-zappy-bg-orig-position-var="" data-zappy-bg-type="image" data-zappy-bg-color="#fbf5e6" data-zappy-bg-image="assets/image-category-image-1783587212921-17p8tp.webp" data-zappy-bg-overlay-color="#000000" data-zappy-bg-overlay-opacity="0" data-zappy-bg-video-type="" data-zappy-bg-video-url="" data-zappy-lazy-bg="background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)), url(&quot;assets/image-category-image-1783587212921-17p8tp.webp&quot;);--zappy-bg-image: url(&quot;assets/image-category-image-1783587212921-17p8tp.webp&quot;);">
   <div class="about-intro-container">
     <!-- Content Column (Right in RTL) -->
     <div class="about-intro-content">
-      <h1 class="about-intro-heading">הקולה מרקט – בית של טעמים</h1>
-      <p class="about-intro-lead">
+      <h1 class="about-intro-heading"><span style="color: #4a4a4a !important"><span style="color: #ffffff !important">הקולה מרקט – בית של טעמים</span></span></h1>
+      <p class="about-intro-lead"><span style="color: #4a4a4a !important"><span style="color: #ffffff !important">
         אנחנו משפחת הקולה Market, מזמינים אתכם לקנות באתר קניות חדשני, המביא אליכם עד הבית
         טעמים, ריחות, צבעים ושלל דברים טובים לשדרוג המטבח, לחיזוק הבריאות, לאירוח מנצח או סתם לפינוק.
-      </p>
-      <p class="about-intro-supporting">
+      </span></span></p>
+      <p class="about-intro-supporting"><span style="color: #707070 !important"><span style="color: #ffffff !important">
         הקולה Market הינו עסק משפחתי שהוקם מתוך רצון להעניק משהו אחר, שונה וייחודי, ושמנו לנו מטרה
         להיות מיוחדים מאתרים אחרים הקיימים בשוק. אנחנו מאמינים שחווית קנייה מעולה היא לא סתם סיסמה
         אלא דרך פעולה המשלבת רמת שירות גבוהה, מגוון רחב של מוצרים, איכות וטריות ללא פשרות ומחירים
         אטרקטיביים.
-      </p>
+      </span></span></p>
       <div class="about-intro-stats">
         <div class="about-intro-stat-item">
           <span class="about-intro-stat-year" style="color: rgb(47, 36, 31) !important;">2014</span>
@@ -1332,6 +1332,9 @@ html{box-sizing:border-box;-webkit-text-size-adjust:100%}*,*::before,*::after{bo
 
     <script src="/script.js"></script>
 
+    <script id="zappy-lazy-bg-loader">
+(function(){function load(el){var css=el.getAttribute('data-zappy-lazy-bg');if(!css)return;el.style.cssText=(el.getAttribute('style')||'').replace(/;?\s*$/,';')+css;el.removeAttribute('data-zappy-lazy-bg');el.classList.remove('zappy-lazy-bg');}function init(){var els=[].slice.call(document.querySelectorAll('[data-zappy-lazy-bg]'));if(!els.length)return;if(!('IntersectionObserver'in window)){els.forEach(load);return;}var io=new IntersectionObserver(function(entries){entries.forEach(function(entry){if(entry.isIntersecting){io.unobserve(entry.target);load(entry.target);}});},{rootMargin:'300px 0px'});els.forEach(function(el){io.observe(el);});setTimeout(function(){els.forEach(function(el){if(el.hasAttribute('data-zappy-lazy-bg'))load(el);});},9000);}if(document.readyState==='loading'){document.addEventListener('DOMContentLoaded',init,{once:true});}else{init();}})();
+</script>
     <script id="zappy-font-awesome-loader">
 (function(){if(window.__zappyFontAwesomeLoader)return;window.__zappyFontAwesomeLoader=true;var href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css';function load(){if(document.querySelector('link[href*="font-awesome"][href*="all.min.css"]'))return;var l=document.createElement('link');l.rel='stylesheet';l.href=href;l.crossOrigin='anonymous';l.referrerPolicy='no-referrer';document.head.appendChild(l);}function schedule(){if('requestIdleCallback'in window){requestIdleCallback(load,{timeout:5000});}else{setTimeout(load,3500);}}['pointerdown','keydown','touchstart','mouseover'].forEach(function(evt){window.addEventListener(evt,load,{once:true,passive:true});});schedule();})();
 </script>
