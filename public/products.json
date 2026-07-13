@@ -1,6 +1,6 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-07-13T14:35:50.651Z",
+  "generated_at": "2026-07-13T14:40:31.076Z",
   "base_url": "https://hakola-market-1.zappy5.app",
   "currency": "ILS",
   "count": 100,
@@ -769,7 +769,7 @@
     },
     {
       "id": "bf47ef10-25c6-4f39-b595-61534f396a1b",
-      "slug": "rybt-btsl-ats-shdh-8dbd1i",
+      "slug": "rybt-btsl-ats-shdh-eb5mma",
       "name": "ריבת בצל - עץ שדה",
       "name_translations": {},
       "description": "",
@@ -781,18 +781,18 @@
       "sale_price": null,
       "currency": "ILS",
       "images": [
-        "https://hakola-market-1.zappy5.app/assets/product-1783953310630-seu9ne.webp"
+        "https://hakola-market-1.zappy5.app/assets/product-1783953580413-ht6e5c.webp"
       ],
       "in_stock": true,
       "stock_status": "in_stock",
-      "url": "https://hakola-market-1.zappy5.app/product/rybt-btsl-ats-shdh-8dbd1i",
+      "url": "https://hakola-market-1.zappy5.app/product/rybt-btsl-ats-shdh-eb5mma",
       "categories": [
         "דף הבית - מוצרים חדשים",
         "מוצרים לבישול",
         "ממרחים ומטבלים",
         "ממרחים ורטבים"
       ],
-      "updated_at": "2026-07-13T14:35:10.926Z"
+      "updated_at": "2026-07-13T14:40:06.953Z"
     },
     {
       "id": "046ef441-f0bf-4ee8-97f3-7ed1d69a29eb",
