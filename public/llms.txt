@@ -76,7 +76,7 @@ Information about WCAG compliance and accessibility features.
 
 ## Products
 
-**Total active products: 100**
+**Total active products: 95**
 
 ### קורנישונים בחומץ יוונים 355 גרם
 https://hakola-market-1.zappy5.app/product/kvrnyshvnym-bchvmts-yvvnym-355-grm-s9knvu
@@ -223,14 +223,6 @@ https://hakola-market-1.zappy5.app/product/atryvt-am-agbnyvt-taste-of-asia-trihr
 - SKU: 15176
 - Description: מכיל: 454 גרם
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783953317075-qnjiyu.webp
-
-### * שומשום לבן - 350 גרם
-https://hakola-market-1.zappy5.app/product/shvmshvm-lbn-350-grm-69lc3j
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: 7caf61628ab9-1
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783953317074-r07u85.webp
 
 ### פניני טפיוקה גדולים -Taste of Asia
 https://hakola-market-1.zappy5.app/product/pnyny-tpyvkh-gdvlym-taste-of-asia-ta1aow
@@ -797,14 +789,6 @@ https://hakola-market-1.zappy5.app/product/nyvky-tpvch-admh-myny-lla-glvtn-500-g
 - Description: בצקניות תפוחי אדמה ללא גלוטן. יש להרתיח מים בסיר ולהכניס את הניוקי למים הרותחים . לבשל כ 2-3 דקות עד שהניוקי צפים על פני המים. להגיש חם.
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783953304452-jwdth.webp
 
-### שוקולד עדשים - 400 גרם
-https://hakola-market-1.zappy5.app/product/shvkvld-adshym-400-grm-9ffpsw
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: aeaae9773192-2-1
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783953304454-58t7a7.webp
-
 ### דבש טהור מפרחי שיזף 1 ק״ג - הכוורת של ניר
 https://hakola-market-1.zappy5.app/product/dbsh-thvr-mprchy-shyzp-1-kg-hkvvrt-shl-nyr-rl5qmi
 - Price: 59.90 ILS
@@ -863,14 +847,6 @@ https://hakola-market-1.zappy5.app/product/mkvplt-shvkv-vnyl-aokoxf
 - SKU: cbe206d0e1d0-1
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783953303305-m07ge.webp
 
-### * דוחן - 500 גרם
-https://hakola-market-1.zappy5.app/product/dvchn-500-grm-070tuq
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: 911606084603-1
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783953303305-26ci.webp
-
 ### זעתר לבנוני
 https://hakola-market-1.zappy5.app/product/zatr-lbnvny-ndsfu4
 - Price: 69.00 ILS
@@ -879,15 +855,6 @@ https://hakola-market-1.zappy5.app/product/zatr-lbnvny-ndsfu4
 - SKU: 5027
 - Description: עלי זעתר טחון בתוספת שום, סומק ומלח. מתאים במיוחד בעיקר לתיבול מאפים ורטבים בסגנון המטבח הים תיכוני.
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783953303304-2tgurs.webp
-
-### מיקס הקולה - דלי
-https://hakola-market-1.zappy5.app/product/myks-hkvlh-dly-can8o7
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: e98a256aeedf-1
-- Description: מכיל אגוזי מלך, קשיו, שקדים, אגוזי לוז, חמוציות ללא סוכר, פיסטוק, ג׳וגי ברי, קוקוס, צימוק לבן וגולדן ברי
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783953303305-64lcoa.webp
 
 ### קפה טחון במשקל - קולומביה
 https://hakola-market-1.zappy5.app/product/kph-tchvn-bmshkl-kvlvmbyh-5glz9l
@@ -906,14 +873,6 @@ https://hakola-market-1.zappy5.app/product/mmtyk-svvytangv-280-grm-sweetango-a83
 - SKU: 13023
 - Description: לא תאמינו שזה לא סוכר! עשוי מאריתריטול, סטיביול וגליקוזיד המופק מצמח הסטיביה. מכיל 280 גרם. התמונה להמחשה בלבד. הסטיביה הינו צמח תבלין נטול קלוריות המכיל חומר בשם סטיביול גליקוזיד. הצמח הגדל בעיקר בדרום אמריקה שם מכונה עשב מתוק ומשמש כבר מאות בשנים לטיפול בבעיות בריאות שונות. הסטיביה מתוק מאוד, בערך פי 10-15 מסוכר, אבקת הסטיביוזיד המופקת מהצמח מתוקה בערך פי 200. אך היא נטולת קלוריות ולא נחשבת לפחמימה. הסטיביה היא טבעית לחלוטין ואינה משלבת תהליך כימי בהפקתה כמו הרבה תחליפי סוכר אחרים, הא בטוחה לש…
 - Image: https://hakola-market-1.zappy5.app/assets/product-1783953303148-qpc0r.webp
-
-### * חומוס מקסיקני - 500 גרם
-https://hakola-market-1.zappy5.app/product/chvmvs-mksykny-500-grm-6z6nlg
-- Price: 0.00 ILS
-- Availability: In stock
-- Category: צורן
-- SKU: 966bd68a7553-1
-- Image: https://hakola-market-1.zappy5.app/assets/product-1783953303152-ztvcm.webp
 
 ### ג'חנון בייתי בצק קפוא בעבודת יד
 https://hakola-market-1.zappy5.app/product/gchnvn-byyty-btsk-kpva-babvdt-yd-s2i8y7
